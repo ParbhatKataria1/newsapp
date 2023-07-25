@@ -1,0 +1,1028 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "articles": [
+        {
+          "source": { "id": null, "name": "WLS-TV" },
+          "author": "Pauline Lockwood And Heather Chen",
+          "title": "Elon Musk to change Twitter brand to 'X,' eliminate iconic bird",
+          "description": "Elon Musk tweeted on Sunday that Twitter would be changing its logo to an \"X\" and that all the birds will be disappearing from the platform.",
+          "url": "https://abc7chicago.com/twitter-elon-musk-x-bird/13537125/",
+          "urlToImage": "https://cdn.abcotvs.com/dip/images/13537169_072323-kabc-5a-twitter-vid.jpg?w=1600",
+          "publishedAt": "2023-07-23T18:00:56Z",
+          "content": "Elon Musk tweeted on his official account on Sunday that Twitter would be changing its logo to an \"X\" and that all the birds will be disappearing from the platform.\r\nIn a series of tweets, Musk said:… [+1368 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Vanity Fair" },
+          "author": "Jack McCordick",
+          "title": "Elon Musk Bids “Adieu” to Twitter Brand, Wants To Change Logo to “X”",
+          "description": "The move is the latest in a number of controversial changes Musk has brought to the social media platform.",
+          "url": "https://www.vanityfair.com/news/2023/07/elon-musk-twitter-bird-logo",
+          "urlToImage": "https://media.vanityfair.com/photos/64bd62a6e032be2806b60ab0/16:9/w_1280,c_limit/1395371342",
+          "publishedAt": "2023-07-23T18:00:13Z",
+          "content": "Twitters famous logo of a small blue bird could be flying the coop as early as Monday, based on Elon Musks latest tweets. Soon we shall bid adieu to the twitter brand and, gradually, all the birds, M… [+1907 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Autoblog" },
+          "author": "Reuters",
+          "title": "Tesla taps Biden tax credits to offset EV price cuts",
+          "description": "Filed under:\n Government/Legal,Green,Plants/Manufacturing,Tesla,Electric\n Continue reading Tesla taps Biden tax credits to offset EV price cuts\nTesla taps Biden tax credits to offset EV price cuts originally appeared on Autoblog on Sun, 23 Jul 2023 14:00:00 E…",
+          "url": "https://www.autoblog.com/2023/07/23/tesla-taps-biden-tax-credits-to-offset-ev-price-cuts/",
+          "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2023-07/6ef315d0-27e6-11ee-bffe-f6937e783441",
+          "publishedAt": "2023-07-23T18:00:00Z",
+          "content": "SEOUL Tesla CEO Elon Musk is ready to cut electric car prices again to drive sales if the economy swoons, and part of the reason is a bonanza from Biden administration tax credits. \r\n\"It does make se… [+3309 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Nationalgeographic.com.es" },
+          "author": "Héctor Rodríguez, Héctor Rodríguez",
+          "title": "Elizabeth Holmes, el auge y caída de la mujer que estafó a Silicon Valley",
+          "description": "Conocido antaño como un pequeño valle agrícola en la costa oeste de los Estados Unidos, Silicon Valley se erige en la actualidad como el campo de cultivo de algunas de las compañías tecnológicas más importantes y poderosas del mundo.Bañados por el sol de Cali…",
+          "url": "https://www.nationalgeographic.com.es/ciencia/elizabeth-holmes-auge-y-caida-mujer-que-estafo-a-silicon-valley_20404",
+          "urlToImage": "https://www.nationalgeographic.com.es/medio/2023/07/21/elizabeth-holmes_4391f20e_230721102421_1200x630.jpg",
+          "publishedAt": "2023-07-23T18:00:00Z",
+          "content": "Conocido antaño como un pequeño valle agrícola en la costa oeste de los Estados Unidos, Silicon Valley se erige en la actualidad como el campo de cultivo de algunas de las compañías tecnológicas más … [+7698 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Mundodeportivo.com" },
+          "author": "Autor Redacción",
+          "title": "Elon Musk sustituirá el pajarito azul de Twitter por una X",
+          "description": "El logotipo del pajarito azul que ha identificado a Twitter por años pronto pasará a ser historia, de acuerdo con el propietario de la plataforma, Elon Musk, que planea identificarlo simplemente con una \"X\".",
+          "url": "https://www.mundodeportivo.com/actualidad/20230723/1002042519/elon-musk-sustituira-pajarito-azul-twitter-x-dct.html",
+          "urlToImage": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2023/05/12/645df5e24d46d.jpeg",
+          "publishedAt": "2023-07-23T17:55:32Z",
+          "content": "El logotipo del pajarito azul que ha identificado a Twitter por años pronto pasará a ser historia, de acuerdo con el propietario de la plataforma, Elon Musk, que planea identificarlo simplemente con … [+1531 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Tech Xplore" },
+          "author": "Glenn CHAPMAN",
+          "title": "Twitter challenger Threads struggles for traction",
+          "description": "After a wildly successful first few days, Threads popularity has waned in the weeks since Meta launched its challenge to Twitter, which lives on despite its problems.",
+          "url": "https://techxplore.com/news/2023-07-twitter-threads-struggles-traction.html",
+          "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/analysts-say-that-a-th.jpg",
+          "publishedAt": "2023-07-23T17:54:12Z",
+          "content": "After a wildly successful first few days, Threads popularity has waned in the weeks since Meta launched its challenge to Twitter, which lives on despite its problems.\r\nThe average amount of time peop… [+4886 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Tech Xplore" },
+          "author": "Science X",
+          "title": "Musk hints Twitter's bird branding could be replaced",
+          "description": "Twitter owner Elon Musk hinted late Saturday night that he may ditch the social media network's blue cartoon bird branding—and soon—for an edgier logo based on an \"everything app\" he has long alluded to called only X.",
+          "url": "https://techxplore.com/news/2023-07-musk-hints-twitter-bird-branding.html",
+          "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/twitter-whose-name-is.jpg",
+          "publishedAt": "2023-07-23T17:48:44Z",
+          "content": "Twitter owner Elon Musk hinted late Saturday night that he may ditch the social media network's blue cartoon bird brandingand soonfor an edgier logo based on an \"everything app\" he has long alluded t… [+2764 chars]"
+        },
+        {
+          "source": { "id": null, "name": "NDTV News" },
+          "author": null,
+          "title": "Elon Musk's 'X' Now Redirects To Twitter As Name Change Imminent",
+          "description": "Twitter's distinctive bird logo will soon be history, the latest move in a series of controversial shake-ups to the social media platform under Elon Musk's stewardship.",
+          "url": "https://www.ndtv.com/world-news/x-com-now-points-to-twitter-com-says-elon-musk-4234831",
+          "urlToImage": "https://c.ndtvimg.com/2022-03/9ckja9fg_elon-musk_625x300_05_March_22.jpg",
+          "publishedAt": "2023-07-23T17:48:27Z",
+          "content": "Twitter's distinctive bird logo will soon be history, the latest move in a series of controversial shake-ups to the social media platform under Elon Musk's stewardship.\r\n\"X.com now points to https://… [+1027 chars]"
+        },
+        {
+          "source": { "id": null, "name": "CleanTechnica" },
+          "author": "Steve Hanley",
+          "title": "India Says No To BYD Factory Plan",
+          "description": "BYD wants to build a factory to make electric cars and batteries in India, but its offer has been rejected over security concerns.",
+          "url": "https://cleantechnica.com/2023/07/23/india-says-no-to-byd-factory-plan/",
+          "urlToImage": "http://cleantechnica.com/files/2023/07/DSC1329-scaled-e1690134285542.jpg",
+          "publishedAt": "2023-07-23T17:45:34Z",
+          "content": "In what may be a hint of troubles ahead for China as it seeks to become a global economic juggernaut, India has rejected a proposal from BYD and Megha Engineering and Infrastructures to invest $1 bil… [+4360 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "newsweek.com",
+          "title": "Elon Musk's Twitter 'X' Logo Plan Met With Ridicule and Jokes",
+          "description": "Elon Musk's proposal to change the Twitter logo from a bird to an \"X\" was met with ridicule and jokes from the platform's users on Sunday. Musk, whose purchase of the social media giant last year has been marred by financial troubles, outages and other contro…",
+          "url": "https://biztoc.com/x/2557816c37ed7c27",
+          "urlToImage": "https://c.biztoc.com/p/2557816c37ed7c27/s.webp",
+          "publishedAt": "2023-07-23T17:44:02Z",
+          "content": "Elon Musk's proposal to change the Twitter logo from a bird to an \"X\" was met with ridicule and jokes from the platform's users on Sunday.Musk, whose purchase of the social media giant last year has … [+293 chars]"
+        },
+        {
+          "source": { "id": null, "name": "The Philadelphia Inquirer" },
+          "author": "Anne D'innocenzio",
+          "title": "Elon Musk says Twitter to change logo to “X” from the bird. Changes could come as early as Monday.",
+          "description": "Elon Musk plans to change the logo of Twitter to an “X” from the famous blue bird, marking what would be the latest big change since he bought the social media platform for $44 billion last year.",
+          "url": "https://www.inquirer.com/business/technology/twitter-elon-musk-bird-logo-x-app-20230723.html",
+          "urlToImage": "https://www.inquirer.com/resizer/ubz1EdWMs9i_UXdjHh1Pqawi4_w=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/IUASYS4GFALRQHHGOZONP2IFNM.jpg",
+          "publishedAt": "2023-07-23T17:40:55Z",
+          "content": "NEW YORK Elon Musk said Sunday that he plans to change the logo of Twitter to an X from the famous blue bird, marking what would be the latest big change since he bought the social media platform for… [+2938 chars]"
+        },
+        {
+          "source": { "id": "newsweek", "name": "Newsweek" },
+          "author": "Andrew Stanton",
+          "title": "Elon Musk's Twitter 'X' Logo Plan Met With Ridicule and Jokes",
+          "description": "Musk suggested Twitter users could soon say \"adieu\" to the platform's iconic bird logo.",
+          "url": "https://www.newsweek.com/elon-musks-twitter-x-logo-plan-met-ridicule-jokes-1814750",
+          "urlToImage": "https://d.newsweek.com/en/full/2260916/elon-musk-twitter-rebrand-sparks-jokes-ridicule.jpg",
+          "publishedAt": "2023-07-23T17:35:18Z",
+          "content": "Elon Musk's proposal to change the Twitter logo from a bird to an \"X\" was met with ridicule and jokes from the platform's users on Sunday.\r\nMusk, whose purchase of the social media giant last year ha… [+4653 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Ixbt.com" },
+          "author": "dexter@ixbt.com (Dexter)",
+          "title": "BMW M8, Tesla Model S и Ferrari Roma — названы самые дешевые суперкары в России в июле 2023 года",
+          "description": "Ресурс CarsWeek.ru составил рейтинг самых доступных спорткаров в России летом текущего года. Моделей — пять, а цены колеблются в диапазоне от 13,36 до 35,2 млн рублей. \r\n Ferrari Roma. Изображение: Ferrari Самый доступный спорткар в России — это BMW M4 Compet…",
+          "url": "https://www.ixbt.com/news/2023/07/23/bmw-m8-tesla-model-s-ferrari-roma-2023.html",
+          "urlToImage": "https://www.ixbt.com/img/n1/news/2023/6/0/d01b885dfc7e0701444a082514526507-scaled-e1679043335564-1280x720_large.jpg",
+          "publishedAt": "2023-07-23T17:32:00Z",
+          "content": "CarsWeek.ru . — , 13,36 35,2 .\r\n — BMW M4 Competition Package. 2022 3,0- 510 .. 13,36 .\r\n — Tesla Model S 2023 . , 670 .. - . 13,7 .\r\n 600- BMW M8. , — 19,62 .\r\n — Mercedes-Benz SL- AMG SL 63 AMG. — … [+57 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "protos.com",
+          "title": "The Weekend Shift: Bitcoin, FTX, Canada",
+          "description": "Welcome to the 128th Weekend Shift! What’s the deal? Over the weekend, we’ll update this post with some of the most interesting articles, podcasts, charts, and opinion pieces we’re too busy to write about. OK, only crypto? Not necessarily. We do that Monday t…",
+          "url": "https://biztoc.com/x/59ad957d95f06bab",
+          "urlToImage": "https://c.biztoc.com/p/59ad957d95f06bab/s.webp",
+          "publishedAt": "2023-07-23T17:30:05Z",
+          "content": "Welcome to the 128th Weekend Shift!Whats the deal? Over the weekend, well update this post with some of the most interesting articles, podcasts, charts, and opinion pieces were too busy to write abou… [+282 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "investing.com",
+          "title": "This week in tech: Microsoft's victory lap; Tesla and Netflix tumble By",
+          "description": "Investing.com -- Here is your weekly Pro Recap on the biggest headlines out of tech this week: Tesla and Netflix drop on Q2, but analysts are bullish; Taiwan Semiconductor slides on a warning; and Wall Street cheers Microsoft's newly unveiled pricing. Investi…",
+          "url": "https://biztoc.com/x/2fda4adc07b82cef",
+          "urlToImage": "https://c.biztoc.com/p/2fda4adc07b82cef/s.webp",
+          "publishedAt": "2023-07-23T17:30:04Z",
+          "content": "Investing.com -- Here is your weekly Pro Recap on the biggest headlines out of tech this week: Tesla and Netflix drop on Q2, but analysts are bullish; Taiwan Semiconductor slides on a warning; and Wa… [+295 chars]"
+        },
+        {
+          "source": { "id": null, "name": "KFSN-TV" },
+          "author": "Pauline Lockwood And Heather Chen",
+          "title": "Elon Musk to change Twitter brand to 'X,' eliminate iconic bird",
+          "description": "Elon Musk tweeted on Sunday that Twitter would be changing its logo to an \"X\" and that all the birds will be disappearing from the platform.",
+          "url": "https://abc30.com/twitter-elon-musk-x-bird/13537125/",
+          "urlToImage": "https://cdn.abcotvs.com/dip/images/13537169_072323-kabc-5a-twitter-vid.jpg?w=1600",
+          "publishedAt": "2023-07-23T17:27:59Z",
+          "content": "Elon Musk tweeted on his official account on Sunday that Twitter would be changing its logo to an \"X\" and that all the birds will be disappearing from the platform.\r\nIn a series of tweets, Musk said:… [+1368 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Expansion.com" },
+          "author": "Expansión",
+          "title": "Elon Musk sustituirá el pajarito azul de Twitter por una X",
+          "description": "El logotipo del pajarito azul que ha identificado a Twitter por años pronto pasará a ser historia, de acuerdo con el propietario de la plataforma, Elon Musk, que planea identificarlo simplemente con una \"X\". Leer",
+          "url": "https://www.expansion.com/empresas/tecnologia/2023/07/23/64bd607d468aeb0b7d8b457a.html",
+          "urlToImage": "https://phantom-expansion.unidadeditorial.es/14ff4bb0e3eebf2c82a6942345b334b1/crop/0x192/800x724/f/jpg/assets/multimedia/imagenes/2023/07/23/16901325452159.jpg",
+          "publishedAt": "2023-07-23T17:17:36Z",
+          "content": "El logotipo del pajarito azul que ha identificado a Twitter por años pronto pasará a ser historia, de acuerdo con el propietario de la plataforma, Elon Musk, que planea identificarlo simplemente con … [+1531 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "techcrunch.com",
+          "title": "Tesla stock falls as margins slip, VanMoof files for bankruptcy, and Aurora sells $820M worth of stock",
+          "description": "Welcome back to The Station, your central hub for all past, present and future means of moving people and packages from Point A to Point B. Your usual host Kirsten Korosec is still away, so you have me for one more week. Let’s jump in. U.S. policymakers and a…",
+          "url": "https://biztoc.com/x/645ae135bfd98809",
+          "urlToImage": "https://c.biztoc.com/p/645ae135bfd98809/s.webp",
+          "publishedAt": "2023-07-23T17:14:10Z",
+          "content": "Welcome back to The Station, your central hub for all past, present and future means of moving people and packages from Point A to Point B. Your usual host Kirsten Korosec is still away, so you have … [+282 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "nbcnews.com",
+          "title": "Elon Musk tweets “And soon we shall bid adieu to the twitter brand” and “If a good enough X logo is posted tonight, we'll make go live worldwide tomorrow”",
+          "description": "NEW YORK — Elon Musk said Sunday that he plans to change the logo of Twitter to an “X” from the bird, marking what would be the latest big change since he bought the social media platform for $44 billion last year. In a series of posts on his Twitter account …",
+          "url": "https://biztoc.com/x/b2968394d8a56796",
+          "urlToImage": "https://c.biztoc.com/p/b2968394d8a56796/s.webp",
+          "publishedAt": "2023-07-23T17:14:10Z",
+          "content": "NEW YORK Elon Musk said Sunday that he plans to change the logo of Twitter to an X from the bird, marking what would be the latest big change since he bought the social media platform for $44 billion… [+284 chars]"
+        },
+        {
+          "source": { "id": "techcrunch", "name": "TechCrunch" },
+          "author": "Rebecca Bellan",
+          "title": "Tesla stock falls as margins slip, VanMoof files for bankruptcy, and Aurora sells $820M worth of stock | TechCrunch",
+          "description": "Welcome back to The Station, your central hub for all past, present and future means of moving people and packages from Point A to Point B.",
+          "url": "https://techcrunch.com/2023/07/23/tesla-stock-falls-as-margins-slip-vanmoof-files-for-bankruptcy-and-aurora-sells-820m-worth-of-stock/",
+          "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/Cybertruck_82.jpg?resize=1200,800",
+          "publishedAt": "2023-07-23T17:06:05Z",
+          "content": "Welcome back to The Station, your central hub for all past, present and future means of moving people and packages from Point A to Point B. Your usual host Kirsten Korosec is still away, so you have … [+15911 chars]"
+        },
+        {
+          "source": { "id": null, "name": "HuffPost" },
+          "author": "Kelby Vera",
+          "title": "Elon Musk To Replace Twitter’s Bird Mascot And Rename Site X",
+          "description": "Musk unveiled a slick new X logo hours after bidding \"adieu\" to the bird.",
+          "url": "https://www.huffpost.com/entry/elon-musk-gets-rid-of-twitter-bird_n_64bd44f3e4b0df863210e2d0",
+          "urlToImage": "https://img.huffingtonpost.com/asset/64bd527823000033004320e9.jpeg?cache=Mv1wM2F0ey&ops=1200_630",
+          "publishedAt": "2023-07-23T17:04:18Z",
+          "content": "Elon Musk is ready to make Twitter unrecognizable.\r\nOn Saturday night, the embattled tech CEO announced his plans to retire the sites iconic blue bird logo and rebrand the platform under the x.com do… [+959 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "billboard.com",
+          "title": "Elon Musk Says Twitter Will Soon Change Its Logo to ‘X’",
+          "description": "Elon Musk said Sunday (July 23) that he plans to change the logo of Twitter to an “X” from the famous blue bird, marking what would be the latest big change since he bought the social media platform for $44 billion last year. In a series of posts on his Twitt…",
+          "url": "https://biztoc.com/x/66070f14697cb020",
+          "urlToImage": "https://c.biztoc.com/p/66070f14697cb020/s.webp",
+          "publishedAt": "2023-07-23T17:04:11Z",
+          "content": "Elon Musk said Sunday (July 23) that he plans to change the logo of Twitter to an X from the famous blue bird, marking what would be the latest big change since he bought the social media platform fo… [+286 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Billboard" },
+          "author": "Associated Press",
+          "title": "Twitter to Change Logo to ‘X,’ Elon Musk Says",
+          "description": "“Soon we shall bid adieu to the twitter brand and, gradually, all the birds,” Musk tweeted.",
+          "url": "https://www.billboard.com/business/business-news/elon-musk-twitter-logo-change-x-1235376943/",
+          "urlToImage": "https://www.billboard.com/wp-content/uploads/2023/03/Elon-Musk-2022-met-gala-billboard-1548.jpg?w=1024",
+          "publishedAt": "2023-07-23T16:59:25Z",
+          "content": "Elon Musk said Sunday (July 23) that he plans to change the logo of Twitter to an “X” from the famous blue bird, marking what would be the latest big change since he bought the social media platform … [+2890 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Eldiario.es" },
+          "author": "elDiario.es",
+          "title": "Elon Musk sustituye el pajarito azul de Twitter por la marca X",
+          "description": "El logotipo del pajarito azul que ha identificado a Twitter por años pronto pasará a ser historia, de acuerdo con el propietario de la plataforma, Elon Musk, que planea identificarlo simplemente con una \"X\". La red social ya ha empezado a instaurar los cambio…",
+          "url": "https://www.eldiario.es/tecnologia/elon-musk-sustituira-pajarito-azul-twitter-x_1_10401565.html",
+          "urlToImage": "https://static.eldiario.es/clip/0e077df7-3b63-4b16-a88d-2817828db76a_facebook-aspect-ratio_default_0.jpg",
+          "publishedAt": "2023-07-23T16:52:00Z",
+          "content": "El logotipo del pajarito azul que ha identificado a Twitter por años pronto pasará a ser historia, de acuerdo con el propietario de la plataforma, Elon Musk, que planea identificarlo simplemente con … [+2484 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Investor's Business Daily" },
+          "author": "Investor's Business Daily",
+          "title": "Dow Jones Futures: Microsoft, Google, Meta Earnings Are Big Tests For AI-Led Market Rally",
+          "description": "The titans' earnings and guidance will be key for cloud computing, and AI.",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-google-meta-earnings-big-tests-for-ai-market-rally/",
+          "urlToImage": "https://www.investors.com/wp-content/uploads/2020/04/Stock-BigWavePipe-08-adobe.jpg",
+          "publishedAt": "2023-07-23T16:46:25Z",
+          "content": "Dow Jones futures will open Sunday evening, along with S&amp;P 500 futures and Nasdaq futures, with Microsoft (MSFT), Google parent Alphabet (GOOGL) and Meta Platforms (META) headlining a huge earnin… [+8353 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Uol.com.br" },
+          "author": null,
+          "title": null,
+          "description": "A informação foi postada neste domingo (23); empresário lançou desafio a usuários da rede",
+          "url": "https://www1.folha.uol.com.br/mercado/2023/07/elon-musk-anuncia-mudanca-no-logotipo-do-twitter.shtml",
+          "urlToImage": "https://f.i.uol.com.br/fotografia/2023/07/23/169012575564bd45bbbad84_1690125755_3x2_md.jpg",
+          "publishedAt": "2023-07-23T16:38:33Z",
+          "content": "O passarinho azul do Twitter pode estar com os dias contados. Elon Musk anunciou a mudança no logotipo da empresa na madrugada deste domingo (23).\r\n\"E em breve daremos adeus à marca Twitter e, aos po… [+1956 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "forbes.com",
+          "title": "Out With The Twitter Bird, In With Letter ‘X’: Musk Teases Most Radical Twitter Rebrand Yet",
+          "description": "Billionaire Twitter owner Elon Musk tweeted Sunday he will relabel the social media platform’s iconic blue bird logo as the letter “X,” the latest step in a massive rebranding effort toward what Musk has described as an all-in-one “everything app.” When asked…",
+          "url": "https://biztoc.com/x/646211bda8d8e9a8",
+          "urlToImage": "https://c.biztoc.com/p/646211bda8d8e9a8/s.webp",
+          "publishedAt": "2023-07-23T16:36:05Z",
+          "content": "Billionaire Twitter owner Elon Musk tweeted Sunday he will relabel the social media platforms iconic blue bird logo as the letter X, the latest step in a massive rebranding effort toward what Musk ha… [+282 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Tyden.cz" },
+          "author": "TYDEN, www.tyden.cz, e-mail: webmaster@tyden.cz",
+          "title": "Elon Musk chce změnit logo Twitteru",
+          "description": "Miliardář Elon Musk dnes oznámil, že plánuje změnit logo Twitteru z proslulého modrého ptáčka na písmeno X, což by byla další velká změna od doby, kdy loni v říjnu koupil tuto platformu sociálních médií za 44 miliard dolarů (asi 930 miliard Kč). V sérii přísp…",
+          "url": "https://www.tyden.cz/rubriky/zahranici/elon-musk-chce-zmenit-logo-twitteru_562943.html",
+          "urlToImage": "https://www.tyden.cz/obrazek/202307/64bd726d57de4/crop-2671904-depositphotos-250646996-s.jpg",
+          "publishedAt": "2023-07-23T16:33:00Z",
+          "content": "Miliardá Elon Musk dnes oznámil, e plánuje zmnit logo Twitteru z proslulého modrého ptáka na písmeno X, co by byla dalí velká zmna od doby, kdy loni v íjnu koupil tuto platformu sociálních médií za 4… [+2788 chars]"
+        },
+        {
+          "source": { "id": null, "name": "KTRK-TV" },
+          "author": "Pauline Lockwood And Heather Chen",
+          "title": "Elon Musk to change Twitter brand to 'X,' eliminate iconic bird",
+          "description": "Elon Musk tweeted on Sunday that Twitter would be changing its logo to an \"X\" and that all the birds will be disappearing from the platform.",
+          "url": "https://abc13.com/twitter-elon-musk-x-bird/13537125/",
+          "urlToImage": "https://cdn.abcotvs.com/dip/images/13537169_072323-kabc-5a-twitter-vid.jpg?w=1600",
+          "publishedAt": "2023-07-23T16:32:31Z",
+          "content": "Elon Musk tweeted on his official account on Sunday that Twitter would be changing its logo to an \"X\" and that all the birds will be disappearing from the platform.\r\nIn a series of tweets, Musk said:… [+1368 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Tecmundo.com.br" },
+          "author": "Carlos Palmeira",
+          "title": "Fim do Twitter: rede social muda de nome e agora se chama ‘X'",
+          "description": "O bilionário Elon Musk anunciou hoje (23) que o Twitter mudou de nome e passará a se chamar “X”. Com a alteração, os usuários se despediram até mesmo do tradicional pássaro para dar às boas-vindas (ou não) ao novo logo com a vigésima quarta letra do alfabeto …",
+          "url": "https://www.tecmundo.com.br/redes-sociais/266726-fim-twitter-rede-social-muda-nome-chama-x.htm",
+          "urlToImage": "https://tm.ibxk.com.br/2023/07/23/23161726618004.jpg",
+          "publishedAt": "2023-07-23T16:31:04Z",
+          "content": "O bilionário Elon Musk anunciou hoje (23) que o Twitter mudou de nome e passará a se chamar X. Com a alteração, os usuários se despediram até mesmo do tradicional pássaro para dar às boas-vindas (ou … [+2295 chars]"
+        },
+        {
+          "source": { "id": "el-mundo", "name": "El Mundo" },
+          "author": "EFE",
+          "title": "Elon Musk sustituirá el pajarito azul de Twitter por una X",
+          "description": "El logotipo del pajarito azul que ha identificado a Twitter por años pronto pasará a ser historia, de acuerdo con el propietario de la plataforma, Elon Musk, que planea...",
+          "url": "https://www.elmundo.es/tecnologia/2023/07/23/64bd528de9cf4af0568b4574.html",
+          "urlToImage": "https://phantom-elmundo.unidadeditorial.es/49c42ce51c5a795bdf41c027a6293369/crop/13x9/2152x1434/resize/1200/f/jpg/assets/multimedia/imagenes/2023/07/23/16901291673404.jpg",
+          "publishedAt": "2023-07-23T16:22:53Z",
+          "content": "El logotipo del pajarito azul que ha identificado a Twitter por años pronto pasará a ser historia, de acuerdo con el propietario de la plataforma, Elon Musk, que planea identificarlo simplemente con … [+1554 chars]"
+        },
+        {
+          "source": { "id": null, "name": "KGO-TV" },
+          "author": "Pauline Lockwood And Heather Chen",
+          "title": "Elon Musk to change Twitter brand to 'X,' eliminate iconic bird",
+          "description": "Elon Musk tweeted on Sunday that Twitter would be changing its logo to an \"X\" and that all the birds will be disappearing from the platform.",
+          "url": "https://abc7news.com/twitter-elon-musk-x-bird/13537125/",
+          "urlToImage": "https://cdn.abcotvs.com/dip/images/13537169_072323-kabc-5a-twitter-vid.jpg?w=1600",
+          "publishedAt": "2023-07-23T16:13:54Z",
+          "content": "Elon Musk tweeted on his official account on Sunday that Twitter would be changing its logo to an \"X\" and that all the birds will be disappearing from the platform.\r\nIn a series of tweets, Musk said:… [+1368 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Livemint" },
+          "author": "Jash Kriplani",
+          "title": "Education in IT has a huge payoff for those getting jobs abroad",
+          "description": "Upskilling costs can continue for an IT professional, but several companies offer to pay their employees for this.",
+          "url": "https://www.livemint.com/money/personal-finance/the-journey-of-it-professionals-costs-skills-and-career-growth-in-the-tech-industry-11690128436151.html",
+          "urlToImage": "https://www.livemint.com/lm-img/img/2023/07/23/600x338/The-IT-sector-continues-to-be-one-of-the-popular-c_1690128418716.jpg",
+          "publishedAt": "2023-07-23T16:07:15Z",
+          "content": "A six-figure salary, a penthouse, and a Tesla. And, of course, that elusive Green Card. That is what most techies aspire for. So, the IT sector continues to be one of the popular career options for y… [+7899 chars]"
+        },
+        {
+          "source": { "id": null, "name": "WABC-TV" },
+          "author": "Pauline Lockwood And Heather Chen",
+          "title": "Elon Musk to change Twitter brand to 'X,' eliminate iconic bird",
+          "description": "Elon Musk tweeted on Sunday that Twitter would be changing its logo to an \"X\" and that all the birds will be disappearing from the platform.",
+          "url": "https://abc7ny.com/twitter-elon-musk-x-bird/13537125/",
+          "urlToImage": "https://cdn.abcotvs.com/dip/images/13537169_072323-kabc-5a-twitter-vid.jpg?w=1600",
+          "publishedAt": "2023-07-23T16:06:37Z",
+          "content": "Elon Musk tweeted on his official account on Sunday that Twitter would be changing its logo to an \"X\" and that all the birds will be disappearing from the platform.\r\nIn a series of tweets, Musk said:… [+1368 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "cryptopotato.com",
+          "title": "Wall Street Memes Presale Closes in on $17 Million as Crypto Influencers Back the Token to Explode",
+          "description": "Wall Street Memes ($WSM) is now closing in on the $17 million mark in its presale as investment continues to flow into the high-potential meme coin. The presale started less than eight weeks ago but excitement and FOMO continue to build around the project whi…",
+          "url": "https://biztoc.com/x/3e3432b7fa667c76",
+          "urlToImage": "https://c.biztoc.com/p/3e3432b7fa667c76/s.webp",
+          "publishedAt": "2023-07-23T16:04:07Z",
+          "content": "Wall Street Memes ($WSM) is now closing in on the $17 million mark in its presale as investment continues to flow into the high-potential meme coin.The presale started less than eight weeks ago but e… [+301 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "aol.com",
+          "title": "Elon Musk says new Twitter logo to change from bird to\"X\" as soon as Monday",
+          "description": "Elon Musk said Sunday that he plans to change the logo of Twitter to an \"X\" from the bird, marking what would be the latest big change since he bought the social media platform for $44 billion last year.In a series of posts on his Twitter account starting jus…",
+          "url": "https://biztoc.com/x/bb9f8c5ba8108d5b",
+          "urlToImage": "https://c.biztoc.com/p/bb9f8c5ba8108d5b/s.webp",
+          "publishedAt": "2023-07-23T16:04:04Z",
+          "content": "Elon Musk said Sunday that he plans to change the logo of Twitter to an \"X\" from the bird, marking what would be the latest big change since he bought the social media platform for $44 billion last y… [+295 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Frandroid" },
+          "author": "Marie Lizak",
+          "title": "On a essayé la Microlino, la concurrente de la Citroën Ami sans permis… mais avec un permis dès 16 ans",
+          "description": "Très attendue, la nouvelle voiturette électrique Microlino fait enfin son arrivée sur le marché français. La petite suisse made in Italie sans permis (ou presque) fait ses premiers tours de roues dans la capitale, et nous avons eu la chance de pouvoir en pren…",
+          "url": "https://www.frandroid.com/survoltes/voitures-electriques/1744039_essai-microlino-concurrente-de-la-citroen-ami-a-conduire-des-16-ans",
+          "urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/07/img-6219-1200x800.jpg",
+          "publishedAt": "2023-07-23T16:01:15Z",
+          "content": "Dire quelle se faisait désirer est un bel euphémisme. Car cela fait un petit bout de temps que lon entend parler de la Microlino, cette petite voiture électrique décrite par beaucoup comme un revival… [+17480 chars]"
+        },
+        {
+          "source": { "id": null, "name": "MarketWatch" },
+          "author": "Joy Wiltermuth",
+          "title": "Stocks are making a run for record territory. Will the Fed end its rate hikes anyway?",
+          "description": "Stocks are closing in on record territory, which could be a key worry for the Federal Reserve as it looks to end its historic rate hikes.",
+          "url": "https://www.marketwatch.com/story/stocks-are-making-a-run-for-record-territory-will-the-fed-end-its-rate-hikes-anyway-31f80662",
+          "urlToImage": "https://images.mktw.net/im-821793/social",
+          "publishedAt": "2023-07-23T16:00:00Z",
+          "content": "Stocks have been closing in on record territory, which isnt supposed to be a key worry of the Federal Reserve. But after a dizzying three years of pandemic extremes, the stock rally has become a sour… [+4738 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Livemint" },
+          "author": "mint",
+          "title": "Tata has placed the UK on the starting grid of today’s EV race",
+          "description": "Britain’s car industry would have faced a bleak future without it",
+          "url": "https://www.livemint.com/opinion/online-views/tata-has-placed-the-uk-on-the-starting-grid-of-today-s-ev-race-11690127488538.html",
+          "urlToImage": "https://www.livemint.com/lm-img/img/2023/07/23/600x338/EV1-kZw--621x414LiveMint_1690127541438_1690127541640.jpg",
+          "publishedAt": "2023-07-23T15:54:38Z",
+          "content": "British government officials describe the Tata Groups decision to build an electric-car battery factory in the UK as a major vote of confidence\" and a huge boost for the countrys auto industry, sayin… [+4609 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "decrypt.co",
+          "title": "Elon Musk Confirms He'll Swap Twitter Logo for 'X' Tomorrow",
+          "description": "Elon Musk confirmed today that he is changing the Twitter logo on Monday, after posting on Twitter early Sunday that \"soon we shall bid adieu to the Twitter brand.\" In its place, the letter X, the name of Musk's long-envisioned \"everything app.\" Musk answered…",
+          "url": "https://biztoc.com/x/2f5e22573a7d6283",
+          "urlToImage": "https://c.biztoc.com/p/2f5e22573a7d6283/s.webp",
+          "publishedAt": "2023-07-23T15:54:05Z",
+          "content": "Elon Musk confirmed today that he is changing the Twitter logo on Monday, after posting on Twitter early Sunday that \"soon we shall bid adieu to the Twitter brand.\" In its place, the letter X, the na… [+282 chars]"
+        },
+        {
+          "source": { "id": null, "name": "The-sun.com" },
+          "author": "Rachel Dobkin",
+          "title": "Elon Musk to ax Twitter's blue bird logo after more than a decade",
+          "description": "TECH tycoon Elon Musk has announced his plans to change the iconic Twitter logo. In a tweet early Sunday morning, Musk, 52, said that he might replace the blue Twitter bird with an X logo. “A…",
+          "url": "https://www.the-sun.com/tech/8668516/elon-musk-twitter-logo-change/",
+          "urlToImage": "https://www.the-sun.com/wp-content/uploads/sites/6/2023/07/LD_ELON-MUSK-TWITTER-LOGO_OFF-PLATFORM.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "publishedAt": "2023-07-23T15:52:39Z",
+          "content": "TECH tycoon Elon Musk has announced his plans to change the iconic Twitter logo. \r\nIn a tweet early Sunday morning, Musk, 52, said that he might replace the blue Twitter bird with an X logo. \r\nIn a t… [+2084 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "theguardian.com",
+          "title": "Twitter users shocked as Elon Musk bids to ditch bird logo",
+          "description": "Twitter’s distinctive bird logo could soon be an ex-parrot, after Elon Musk proposed scrapping it in what would be the latest in a series of controversial shake-ups to the social media platform under the billionaire’s ownership. Musk, who bought the site for …",
+          "url": "https://biztoc.com/x/100556e72e416fa3",
+          "urlToImage": "https://c.biztoc.com/p/100556e72e416fa3/s.webp",
+          "publishedAt": "2023-07-23T15:52:09Z",
+          "content": "Twitters distinctive bird logo could soon be an ex-parrot, after Elon Musk proposed scrapping it in what would be the latest in a series of controversial shake-ups to the social media platform under … [+289 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "businessinsider.com",
+          "title": "Tesla Model S gets high marks for its range and speed. See price, specs, and pictures",
+          "description": "Tesla Model S. Tesla Tesla's Model S is its oldest vehicle still in production. It delivered its first in 2012. The luxury family sedan costs nearly $90,000 for the most basic version. It can go from 0 to 60 miles per hour in 3.1 seconds and has a top speed o…",
+          "url": "https://biztoc.com/x/e18cef53aee8782d",
+          "urlToImage": "https://c.biztoc.com/p/e18cef53aee8782d/s.webp",
+          "publishedAt": "2023-07-23T15:52:04Z",
+          "content": "Tesla Model S.TeslaTesla's Model S is its oldest vehicle still in production. It delivered its first in 2012.The luxury family sedan costs nearly $90,000 for the most basic version.It can go from 0 t… [+306 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Gazeta.ru" },
+          "author": "Газета.Ru",
+          "title": "Продажи новых электромобилей в России выросли на 244%",
+          "description": "В первой половине 2023 года в России было реализовано 4455 новых электромобилей, этот результат на 244% превышает показатель аналогичного периода прошлого года (1304 ед.). Об этом сообщает \"Автостат Инфо\".\n\nСамым популярным ...",
+          "url": "https://www.gazeta.ru/auto/news/2023/07/23/20929340.shtml",
+          "urlToImage": "https://img.gazeta.ru/files3/674/17319674/79-pic_32ratio_900x600-900x600-32508.jpg",
+          "publishedAt": "2023-07-23T15:46:43Z",
+          "content": "2023    4455  ,  244% (1304 .). « ».\r\n     Volkswagen ID.4,  598 . ( 28 . ).     Evolute I-Pro (528 .), Tesla Y (398 .).   Evolute I-Joy (528 .) Geely Zeekr 001 (266 .).\r\n,     1060 ,   ,   (178 .).\r… [+22 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "benzinga.com",
+          "title": "Musk's Scooby-Doo Meme, Tesla's Bitcoin Position, Black Swan Author's NFT Critique And More: This Week In Crypto",
+          "description": "This week in the world of cryptocurrency was nothing short of eventful. From Elon Musk‘s influence on Dogecoin to the fluctuating valuation of Jack Dorsey‘s tweet NFT, the crypto landscape was buzzing with activity. Meanwhile, Tesla’s unchanged Bitcoin positi…",
+          "url": "https://biztoc.com/x/68ef91addb4d4590",
+          "urlToImage": "https://c.biztoc.com/p/68ef91addb4d4590/s.webp",
+          "publishedAt": "2023-07-23T15:44:03Z",
+          "content": "This week in the world of cryptocurrency was nothing short of eventful. From Elon Musks influence on Dogecoin to the fluctuating valuation of Jack Dorseys tweet NFT, the crypto landscape was buzzing … [+292 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Decrypt" },
+          "author": "Ryan Ozawa,Pedro Solimano",
+          "title": "Elon Musk Confirms He'll Swap Twitter Logo for 'X' Tomorrow",
+          "description": "The tech mogul said the Twitter logo will be cut off its San Francisco headquarters on Monday as the company pivots toward an \"everything app.\"",
+          "url": "https://decrypt.co/149692/elon-musk-twitter-brand-x-app-everything-super-app",
+          "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/07/Elon-Musk-X-App-RKO-gID_7.jpg",
+          "publishedAt": "2023-07-23T15:43:44Z",
+          "content": "Elon Musk confirmed today that he is changing the Twitter logo on Monday, after posting on Twitter early Sunday that \"soon we shall bid adieu to the Twitter brand.\" In its place, the letter X, the na… [+1874 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Trtafrika.com" },
+          "author": "Http://www.trtafrika.com/business/twitter-to-ditch",
+          "title": "Twitter to ditch bird logo in major rebranding - TRT Afrika",
+          "description": "In a series of tweets, Elon Musk has said the changes could come as early as Monday.",
+          "url": "http://www.trtafrika.com/business/twitter-to-ditch-bird-logo-in-major-rebranding-14162592",
+          "urlToImage": "https://cdn-i.pr.trt.com.tr/trtafricaeng/w960/h540/q70/16801729_0-63-3961-2231.jpeg",
+          "publishedAt": "2023-07-23T15:38:15Z",
+          "content": "Elon Musk has said that he plans to change the logo of Twitter to an X from the bird, marking what would be the latest big change since he bought the social media platform for $44 billion last year. … [+1936 chars]"
+        },
+        {
+          "source": { "id": "usa-today", "name": "USA Today" },
+          "author": "USA TODAY, Anne D'Innocenzio",
+          "title": "Elon Musk says new Twitter logo to change from bird to\"X\" as soon as Monday",
+          "description": "Elon Musk plans to change Twitter's logo from the blue bird to an \"X,\" and changes could come as soon as Monday.",
+          "url": "https://www.usatoday.com/story/tech/2023/07/23/musk-twitter-logo-change-x/70452971007/",
+          "urlToImage": "https://www.gannett-cdn.com/presto/2022/11/22/USAT/4d153d1d-69c1-42dc-9897-c5d452fadc9b-AFP_AFP_32NV4YX.JPG?auto=webp&crop=4499,2531,x1,y470&format=pjpg&width=1200",
+          "publishedAt": "2023-07-23T15:35:40Z",
+          "content": "NEW YORK (AP) Elon Musk said Sunday that he plans to change the logo of Twitter to an \"X\" from the bird, marking what would be the latest big change since he bought the social media platform for $44 … [+1955 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Forbes" },
+          "author": "Brian Bushard, Forbes Staff, \n Brian Bushard, Forbes Staff\n https://www.forbes.com/sites/brianbushard/",
+          "title": "Out With The Twitter Bird, In With Letter ‘X’: Musk Teases Most Radical Twitter Rebrand Yet",
+          "description": "Twitter’s switch from its iconic bird logo to the letter X could come as soon as Monday.",
+          "url": "https://www.forbes.com/sites/brianbushard/2023/07/23/out-with-the-twitter-bird-in-with-letter-x-musk-teases-most-radical-twitter-rebrand-yet/",
+          "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64bd41891f6645a689d98952/0x0.jpg?format=jpg&crop=3543,1992,x0,y0,safe&width=1200",
+          "publishedAt": "2023-07-23T15:33:30Z",
+          "content": "Billionaire Twitter owner Elon Musk tweeted Sunday he will relabel the social media platforms iconic blue bird logo as the letter X, the latest step in a massive rebranding effort toward what Musk ha… [+4013 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Daily Mail" },
+          "author": "Katherine Lawton",
+          "title": "Summer getaway drivers forced to abandon new £1M charging points at service station after electricians fail to hook them up to power supply",
+          "description": "Ken McMeikan, chief executive of Moto - that operates the Pease Pottage site near Gatwick - said the power was meant to be turned on at the start of July but will be delayed until September 9.",
+          "url": "https://www.dailymail.co.uk/news/article-12328859/Summer-getaway-drivers-forced-abandon-new-1M-charging-points-service-station-electricians-fail-hook-power-supply.html",
+          "urlToImage": "https://i.dailymail.co.uk/1s/2023/07/23/16/73523235-0-image-a-4_1690124941167.jpg",
+          "publishedAt": "2023-07-23T15:32:34Z",
+          "content": "Summer getaway drivers have been forced to abandon new £1million charging points at a service station after electricians failed to hook them up to the power supply. \r\nThe bank of 16 Tesla supercharge… [+2317 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Montevideo.com.uy" },
+          "author": "Montevideo Portal",
+          "title": "Elon Musk insinúa que podría reemplazar el logo del pájaro de Twitter por la letra X",
+          "description": "El empresario escribió varios tuits al respecto y comentó que el cambio de imagen podría darse estos días.",
+          "url": "https://www.montevideo.com.uy/Ciencia-y-Tecnologia/Elon-Musk-insinua-que-podria-reemplazar-el-logo-del-pajaro-de-Twitter-por-la-letra-X-uc860485",
+          "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202204/_W933_80/800314.jpg",
+          "publishedAt": "2023-07-23T15:30:00Z",
+          "content": "El dueño de Twitter, el magnate Elon Musk,\r\ninsinuó el sábado por la noche que podría deshacerse del logotipo del pájaro\r\nazul de la red social, y pronto, por optar por uno más atrevido basado en una… [+2261 chars]"
+        },
+        {
+          "source": { "id": null, "name": "El Financiero" },
+          "author": "AP",
+          "title": "Adiós al pajarito azul: Musk dice que Twitter tendrá un nuevo logo",
+          "description": "Elon Musk sigue batallando para darle estabilidad a Twitter.",
+          "url": "https://www.elfinanciero.com.mx/tech/2023/07/23/twitter-cambiara-de-logo-elon-musk-quitara-los-pajaritos-azules/",
+          "urlToImage": "https://www.elfinanciero.com.mx/resizer/lhLEXCXkNY0_kLJ9JLxWLs7VK6U=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/OH44Z6FF6RGCLISWL3DEG6X4IA.jpg",
+          "publishedAt": "2023-07-23T15:25:54Z",
+          "content": "Elon Musk dijo el domingo que tenía previsto cambiar el logotipo del pajarito azul de Twitter por una X, un cambio importante desde que compró la red social por 44,000 millones de dólares el año pasa… [+2222 chars]"
+        },
+        {
+          "source": { "id": "business-insider", "name": "Business Insider" },
+          "author": "Grace Dean",
+          "title": "Tesla Model S gets high marks for its range and speed. See price, specs, and pictures.",
+          "description": "Tesla Model S is often hailed for its speed and range. Find out more about prices, specs, and see pictures.",
+          "url": "https://www.businessinsider.com/tesla-model-s",
+          "urlToImage": "https://i.insider.com/60db6b321477f300188c85f7?width=1200&format=jpeg",
+          "publishedAt": "2023-07-23T15:20:01Z",
+          "content": "Tesla Model S.Tesla\r\n<ul>\n<li>Tesla's Model S is its oldest vehicle still in production. It delivered its first in 2012.</li>\n<li>The luxury family sedan costs nearly $90,000 for the most basic versi… [+2824 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Sky.com" },
+          "author": "James Robinson",
+          "title": "Musk hints he is about to replace Twitter's bird logo as part of 'super app' plan",
+          "description": "Elon Musk says he could replace Twitter's blue bird logo by Monday - as he pushes ahead with plans to rebrand the social network as X.",
+          "url": "https://news.sky.com/story/elon-musk-hints-he-is-about-to-replace-twitters-blue-bird-logo-as-he-pushes-forward-with-plans-for-x-app-12926104",
+          "urlToImage": "https://e3.365dm.com/22/11/1600x900/skynews-elon-musk-twitter_5981006.jpg?20221128230913",
+          "publishedAt": "2023-07-23T15:19:00Z",
+          "content": "Elon Musk says he could replace Twitter's blue bird logo by Monday - as he pushes ahead with plans to rebrand the social network as X.\r\nIn a series of posts on his account, the billionaire said he pl… [+2141 chars]"
+        },
+        {
+          "source": { "id": null, "name": "BeInCrypto" },
+          "author": "Luis Jesús Blanco Crespo",
+          "title": "Resumen semanal de BeInCrypto: Token ARKM se dispara 1,300%, Boom de Barbie y NFT, Revolut migra a España…",
+          "description": "Bienvenidos a otro resumen semanal de noticias de BeInCrypto, les traemos el top 10 noticias más relevantes de la semana del 17 al 23 de julio de 2023. Actualice instantáneamente las últimas noticias de Bitcoin, criptomonedas, blockchain, FinTech, mercados bu…",
+          "url": "https://es.beincrypto.com/resumen-semanal-noticias-beincrypto-23-07-23/",
+          "urlToImage": "https://s32679.pcdn.co/wp-content/uploads/2022/12/Recopilacion-Noticias2.jpg.webp",
+          "publishedAt": "2023-07-23T15:17:00Z",
+          "content": "Bienvenidos a otro resumen semanal de noticias de BeInCrypto, les traemos el top 10 noticias más relevantes de la semana del 17 al 23 de julio de 2023. Actualice instantáneamente las últimas noticias… [+4433 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Unwire.hk" },
+          "author": "藍骨",
+          "title": "歐洲銷量排名電動車首次超越燃油車　Tesla Model Y 成最暢銷車款",
+          "description": "歐洲多國近年相當鼓勵電動車，而市場亦有不錯的反應。最近一個市場調查報告就顯示，今年 6 月以及上半年的歐洲市場中，Tesla Model Y 奪得了銷量冠軍，而且也是首次有電動車奪冠。\nThe post 歐洲銷量排名電動車首次超越燃油車　Tesla Model Y 成最暢銷車款 first appeared on 香港 unwire.hk 玩生活．樂科技.\nThe post 歐洲銷量排名電動車首次超越燃油車　Tesla Model Y 成最暢銷車款 appeared first on 香港 unwire.hk 玩…",
+          "url": "https://unwire.hk/2023/07/23/tesla-model-y-crowned-europe-best-selling-car-overall-h1-2023/life-tech/auto/",
+          "urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2023/07/download-34.png",
+          "publishedAt": "2023-07-23T15:16:23Z",
+          "content": "6 Tesla Model Y \r\n Dataforce Tesla Model Y 6 40,147 125,144 2 Dacia Sandero VW T-Roc Model 3 50 \r\nTesla Tesla Model Y 5,000 Tesla Model Y \r\nInsideEVs\r\n==Follow Threads : &lt;&gt;=="
+        },
+        {
+          "source": { "id": "techradar", "name": "TechRadar" },
+          "author": "Myriam Joire",
+          "title": "What GM abandoning Apple CarPlay and Android Auto means for you",
+          "description": "What GM abandoning Apple CarPlay and Android Auto means for youtechradar.com",
+          "url": "https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/what-gm-abandoning-apple-carplay-and-android-auto-means-for-you",
+          "urlToImage": "https://cdn.mos.cms.futurecdn.net/S57H9eWSdS62WniVqVd4DR-1200-80.jpg",
+          "publishedAt": "2023-07-23T15:13:14Z",
+          "content": "General Motors recently caused quite a stir\r\n when it announced it would abandon support for Apple CarPlay and Android Auto in future EVs (electric vehicles) in favor of its own Google-based infotain… [+6727 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Vozdeamerica.com" },
+          "author": "vozdeamerica@voanews.com (Associated Press)",
+          "title": "Musk dice que Twitter cambiará su logo de pájaro por una X",
+          "description": "El icónico pájaro que identifica a Twitter podría cambiar a una X a partir del lunes.",
+          "url": "https://www.vozdeamerica.com/a/musk-dice-twitter-cambiara-logo-de-pajaro-por-una-x/7192549.html",
+          "urlToImage": "https://gdb.voanews.com/1c9c235e-60c8-49f2-8cbd-586880b8e313_w1200_r1.jpg",
+          "publishedAt": "2023-07-23T15:07:47Z",
+          "content": "Elon Musk dijo este domingo que tiene previsto cambiar el logotipo de pájaro de Twitter por una X, una importante novedad desde que compró la red social por 44.000 millones de dólares el año pasado.\r… [+2367 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Chip.com.tr" },
+          "author": "CHIP Online",
+          "title": "Tesla, otonom sürüş sistemini diğer markalara da açmaya hazır olduğunu açıkladı",
+          "description": "Ardı ardına yeni rekorlara imza atan Tesla, şimdi de tam otonom sürüş sistemi FSD'yi diğer otomobil üreticilerine lisanslamaya hazırlanıyor.",
+          "url": "https://www.chip.com.tr/haber/tesla-otonom-surus-sistemini-de-lisansa-acmak-istiyor_158523.html",
+          "urlToImage": "https://img.chip.com.tr/rcman/Cw1280h720q95gm/storage/files/images/2023/07/20/tesla-otonom-surus-sistemini-de-lisansa-acmak-istiyor-Nl7t.jpg",
+          "publishedAt": "2023-07-23T15:06:29Z",
+          "content": "Tesla’nın 2023 ikinci çeyrek yatırımcı görüşmesi sırasında yapılan sürpriz bir duyuruda CEO Elon Musk, şirketin Tam Otonom Sürüş (FSD) sistemini diğer otomobil üreticilerine ve OEM’lere lisanslamayı … [+1752 chars]"
+        },
+        {
+          "source": { "id": null, "name": "PCMag.com" },
+          "author": "Γιώργος K.",
+          "title": "Το rebrand του Twitter σε \"X\" μπορεί να συμβεί σύντομα",
+          "description": "Η αλλαγή θα αφορά το όνομα και το λογότυπο της εταιρείας.",
+          "url": "https://gr.pcmag.com/social-media-1/44327/to-rebrand-tou-twitter-se-x-mporei-na-sumbei-suntoma",
+          "urlToImage": "https://sm.pcmag.com/t/pcmag_gr/news/t/twitters-r/twitters-rebrand-to-x-might-happen-soon_zrv9.1200.jpg",
+          "publishedAt": "2023-07-23T15:01:00Z",
+          "content": "(Credit: Shutterstock/ FellowNeko)\r\n, Twitter, .\r\n , Twitter Elon Musk Twitter \" Twitter , , \". tweet tweet \" \" X, .\r\nAnd soon we shall bid adieu to the twitter brand and, gradually, all the birds\r\nE… [+574 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "washingtonpost.com",
+          "title": "Twitter will lose bird logo in latest brand overhaul, Elon Musk says",
+          "description": "Twitter owner Elon Musk announced overnight Sunday that his social media platform will retire the famed bird logo as part of his relentless effort to overhaul the brand. Amid a series of tweets asking users whether the brand should change its default color fr…",
+          "url": "https://biztoc.com/x/f79a7e59a539bb26",
+          "urlToImage": "https://c.biztoc.com/p/f79a7e59a539bb26/s.webp",
+          "publishedAt": "2023-07-23T14:54:30Z",
+          "content": "Twitter owner Elon Musk announced overnight Sunday that his social media platform will retire the famed bird logo as part of his relentless effort to overhaul the brand. Amid a series of tweets askin… [+263 chars]"
+        },
+        {
+          "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+          },
+          "author": "Marianna Sotomayor",
+          "title": "Twitter will lose bird logo in latest brand overhaul, Musk says",
+          "description": "Elon Musk suggested replacing Twitter’s blue bird with an ‘X’ and changing its default color to black or white.",
+          "url": "https://www.washingtonpost.com/technology/2023/07/23/musk-twitter-logo-x/",
+          "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OWFZVZXCL4I6TPT7JTEFAF6DN4_size-normalized.jpg&w=1440",
+          "publishedAt": "2023-07-23T14:52:14Z",
+          "content": "Comment on this story\r\nComment\r\nTwitter owner Elon Musk announced overnight Sunday that his social media platform will retire the famed bird logo as part of his relentless effort to overhaul the bran… [+1569 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "247wallst.com",
+          "title": "Ford’s F-150 May Ruin Prospects",
+          "description": "Ford’s sales in the US were strong in the first half of 2023. In July, management said it had been the No.1 brand in the US for six months in a row. Ford sold 531,662 vehicles in the period, up 9.9%. Thirty-nine percent of the figure was the Ford F-Series, ma…",
+          "url": "https://biztoc.com/x/ad578ea7b2d8c143",
+          "urlToImage": "https://c.biztoc.com/p/ad578ea7b2d8c143/s.webp",
+          "publishedAt": "2023-07-23T14:52:04Z",
+          "content": "Fords sales in the US were strong in the first half of 2023. In July, management said it had been the No.1 brand in the US for six months in a row. Ford sold 531,662 vehicles in the period, up 9.9%. … [+279 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Mirror Online" },
+          "author": "mirrornews@mirror.co.uk (Benjamin Lynch)",
+          "title": "Elon Musk to scrap Twitter's blue bird logo after more than 10 years as he shares new one",
+          "description": "Elon Musk could be set to ditch the famous Twitter bird icon in favour of a new 'X' design. Mr Musk has previously suggested Twitter could be incorporated into some sort of super app",
+          "url": "https://www.mirror.co.uk/news/us-news/elon-musk-scrap-twitters-blue-30533911",
+          "urlToImage": "https://i2-prod.dailystar.co.uk/incoming/article30531942.ece/ALTERNATES/s1200/2_Key-Speakers-At-EEI-2023-Conference.jpg",
+          "publishedAt": "2023-07-23T14:46:24Z",
+          "content": "Tesla billionaire Elon Musk claims he intends to scrap the iconic Twitter bird logo and replace it as he looks to make further wild changes to the popular app he now owns. \r\nThe tech mogul bought the… [+2908 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Zive.cz" },
+          "author": "Vít Havelka, E15.cz",
+          "title": "Čínská norma 6b je ještě přísnější než Euro 7. Začne platit ještě letos. Co to znamená pro český autoland?",
+          "description": "",
+          "url": "https://vtm.zive.cz/clanky/cinska-norma-6b-je-jeste-prisnejsi-nez-euro-7-zacne-platit-jeste-letos-co-to-znamena-pro-cesky-autoland/sc-870-a-223261/default.aspx",
+          "urlToImage": "https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=491868491",
+          "publishedAt": "2023-07-23T14:45:00Z",
+          "content": "Státy Evropské unie se rozhodly, e prodej nových voz se spalovacími motory skoní nejpozdji v roce 2035. Akoli se v esku jedná o velmi kontroverzní krok, v kontextu globálního trhu s novými auty pravd… [+2831 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "forbes.com",
+          "title": "BlackRock’s ETF Can Change The Bitcoin Game After Years Of SEC Rejections",
+          "description": "An Exchange Trade Fund is an investment vehicle that tracks the performance of a particular index, sector, commodity, or asset. It allows investors to gain exposure to these assets, operating them on traditional stock exchanges. There are plenty of these prod…",
+          "url": "https://biztoc.com/x/1e99879bbc6bf625",
+          "urlToImage": "https://c.biztoc.com/p/1e99879bbc6bf625/s.webp",
+          "publishedAt": "2023-07-23T14:40:09Z",
+          "content": "An Exchange Trade Fund is an investment vehicle that tracks the performance of a particular index, sector, commodity, or asset. It allows investors to gain exposure to these assets, operating them on… [+306 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Notebookcheck.net" },
+          "author": "Deirdre O'Donnell",
+          "title": "WAU CYBER hyped as \"Tesla of electric bikes\" ahead of Indiegogo launch",
+          "description": "WAU CYBER is being touted as \"the world's most powerful\" e-bike in advance of its launch, which will be done via crowdfunding. Its makers assert that it will also look more electric than every other vehicle on its market thus far. It is also backed to have \"m…",
+          "url": "https://www.notebookcheck.net/WAU-CYBER-hyped-as-Tesla-of-electric-bikes-ahead-of-Indiegogo-launch.735966.0.html",
+          "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/waucyberbiketeaser.jpg",
+          "publishedAt": "2023-07-23T14:40:00Z",
+          "content": "The WAU CYBER's new \"Coming Soon\" page promotes it as a \"masterpiece of both design and engineering\" that helps it stand out from the e-bike crowd and live up to its name all at once. The resulting \"… [+841 chars]"
+        },
+        {
+          "source": { "id": null, "name": "TODAY" },
+          "author": "Associated Press",
+          "title": "Elon Musk says the Twitter logo will change from a bird to an “X”",
+          "description": "Elon Musk said he plans to change the logo of Twitter to an “X” from the bird, marking what would be the latest big change since he bought the social media platform.",
+          "url": "https://www.today.com/news/elon-musk-says-twitter-logo-will-change-rcna95805",
+          "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2023-07/230723-musk-twitter-ha-65a648.jpg",
+          "publishedAt": "2023-07-23T14:38:12Z",
+          "content": "NEW YORK Elon Musk said Sunday, July 23 that he plans to change the logo of Twitter to an X from the bird, marking what would be the latest big change since he bought the social media platform for $4… [+1947 chars]"
+        },
+        {
+          "source": { "id": null, "name": "500ish.com" },
+          "author": "M.G. Siegler",
+          "title": "Bizarro Twitter",
+          "description": "I think at this point we have to assume that Elon Musk is intentionally trying to run Twitter into the ground. Perhaps partially for the LOLs, but potentially to push the company towards bankruptcy…",
+          "url": "https://500ish.com/bizarro-twitter-bfcd7a26383",
+          "urlToImage": "https://miro.medium.com/v2/resize:fit:882/1*VTJmsdZuFTnqs2eIl7DyaQ.jpeg",
+          "publishedAt": "2023-07-23T14:38:00Z",
+          "content": "Excellent work BadGoodBat on Threads\r\nI think at this point we have to assume that Elon Musk is intentionally trying to run Twitter into the ground. Perhaps partially for the LOLs, but potentially to… [+2949 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Hollywood Reporter" },
+          "author": "Alex Weprin",
+          "title": "Twitter Name Change to “X”: Elon Musk Says He Will Change Brand",
+          "description": "\"Soon we shall bid adieu to the twitter brand and, gradually, all the birds,\" Musk tweeted late Saturday night.",
+          "url": "https://www.hollywoodreporter.com/business/digital/elon-musk-twitter-name-change-to-x-1235541959/",
+          "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/07/Elon-Musk-Getty-H-2023.jpg?w=1024",
+          "publishedAt": "2023-07-23T14:20:37Z",
+          "content": "Is the Twitter bird about to go extinct? It appears so, if Elon Musk gets his way.\r\nMusk, the billionaire owner of Twitter, said in a series of tweets late Saturday night that he was going to change … [+1867 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Www.bnr.nl" },
+          "author": "ANP",
+          "title": "Kwartaalcijfers en rentebesluit ECB centraal op beurzen",
+          "description": "Beleggers maken zich op voor een week vol kwartaalcijfers van een trits beursgenoteerde bedrijven. Onder meer zorgtechnologieconcern Philips, olie- en gasconcern Shell en voedingsmiddelenbedrijf Unilever openen de boeken. Verder staat donderdag een nieuw rent…",
+          "url": "https://www.bnr.nl/nieuws/financieel/10519474/kwartaalcijfers-en-rentebesluit-ecb-centraal-op-beurzen",
+          "urlToImage": "https://bnr-external-prod.imgix.net/MXq8bBEQT6s0sotZZFZ-9JRw_0U.jpg?q=45&w=1500&auto=format,compress",
+          "publishedAt": "2023-07-23T14:20:14Z",
+          "content": "Naast bedrijfscijfers, kijken beleggers en analisten ook uit naar het nieuwe rentebesluit van de ECB. ECB-president Christine Lagarde kondigde een maand geleden al aan dat de rentetarieven verder omh… [+2377 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Newsnationnow.com" },
+          "author": "Anne D'innocenzio",
+          "title": "Musk says Twitter to change logo to “X” from the bird",
+          "description": "NEW YORK (AP) — Elon Musk said Sunday that he plans to change the logo of Twitter to an “X” from the famous blue bird, marking what would be the latest big change since he bought the social media platform for $44 billion last year. In a series of posts on his…",
+          "url": "https://www.newsnationnow.com/business/tech/ap-musk-says-twitter-to-change-logo-to-x-from-the-bird-changes-could-come-as-early-as-monday/",
+          "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2023/07/64bd14d7423bf3.54628286.jpeg?w=1280",
+          "publishedAt": "2023-07-23T14:16:55Z",
+          "content": "NEW YORK (AP) Elon Musk said Sunday that he plans to change the logo of Twitter to an X from the famous blue bird, marking what would be the latest big change since he bought the social media platfor… [+2943 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Ambcrypto.com" },
+          "author": "Suzuki Shillsalot",
+          "title": "ChatGPT thinks that Dogecoin holds the promise of digital fortunes",
+          "description": "ChatGPT is optimistic about the performance of Dogecoin, the leading memecoin. The AI bot thinks DOGE is a good investment instrument.",
+          "url": "https://ambcrypto.com/chatgpt-doge-price-prediction-18/",
+          "urlToImage": "https://statics.ambcrypto.com/wp-content/uploads/2023/07/admin-ajax-1000x600.png",
+          "publishedAt": "2023-07-23T14:15:36Z",
+          "content": "Disclaimer: The information presented does not constitute financial, investment, trading, or other types of advice and is solely the writers opinion.\r\nRecently, Twitter boss Elon Musk tweeted a meme … [+7079 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "abcnews.go.com",
+          "title": "Musk says Twitter to change logo to \"X\" from the bird. Changes could come as early as Monday",
+          "description": "NEW YORK -- Elon Musk said Sunday that he plans to change the logo of to an “X” from the bird, marking what would be the latest big change since he bought the social media platform for $44 billion last year. In a series of posts on his Twitter account startin…",
+          "url": "https://biztoc.com/x/6f8e560edcd7fd7c",
+          "urlToImage": "https://c.biztoc.com/p/6f8e560edcd7fd7c/og.webp",
+          "publishedAt": "2023-07-23T14:08:11Z",
+          "content": "NEW YORK -- Elon Musk said Sunday that he plans to change the logo of to an X from the bird, marking what would be the latest big change since he bought the social media platform for $44 billion last… [+297 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "cryptodaily.co.uk",
+          "title": "Crypto Weekly Roundup: UK Rejects Treasury’s Proposal And More",
+          "description": "The UK’s HM Treasury has officially rejected the House of Commons Treasury Committee’s recent recommendation to regulate crypto trading not as financial assets but as gambling instruments. Let’s find out more. Bitcoin Elon Musk’s Tesla has continued to hodl i…",
+          "url": "https://biztoc.com/x/ffb22f6867eccfef",
+          "urlToImage": "https://c.biztoc.com/p/ffb22f6867eccfef/s.webp",
+          "publishedAt": "2023-07-23T14:00:06Z",
+          "content": "The UKs HM Treasury has officially rejected the House of Commons Treasury Committees recent recommendation to regulate crypto trading not as financial assets but as gambling instruments. Lets find ou… [+285 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Electrek" },
+          "author": "Jameson Dow",
+          "title": "This ‘crazy’ couple is driving an electric car all the way to the South Pole",
+          "description": "Last year, we reported on an electric Nissan Ariya that would make a trip from the magnetic North Pole to the South Pole manned by Chris Ramsey of Plug in Adventures and his wife Julie, who were also the first to complete the Mongol Rally in an EV in 2017. Th…",
+          "url": "https://electrek.co/2023/07/23/this-crazy-couple-is-driving-an-electric-car-all-the-way-to-the-south-pole/",
+          "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/07/Screenshot-2023-07-14-at-9.27.09-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "publishedAt": "2023-07-23T14:00:00Z",
+          "content": "Last year, we reported on an electric Nissan Ariya that would make a trip from the magnetic North Pole to the South Pole manned by Chris Ramsey of Plug in Adventures and his wife Julie, who were also… [+7495 chars]"
+        },
+        {
+          "source": { "id": "time", "name": "Time" },
+          "author": "ANNE D'INNOCENZIO / AP",
+          "title": "Musk Says Twitter Could Change Logo to “X” As Early as Monday",
+          "description": "Elon Musk said Sunday that he plans to change the logo of Twitter to an “X” from the bird, marking what would be the latest big change since he bought the social media platform for $44 billion last year",
+          "url": "https://time.com/6296884/musk-says-twitter-could-change-logo-to-x-as-early-as-monday/",
+          "urlToImage": "https://api.time.com/wp-content/uploads/2023/07/Twitter-1.jpg?quality=85&w=1200&h=628&crop=1",
+          "publishedAt": "2023-07-23T13:58:26Z",
+          "content": "NEW YORK — Elon Musk said Sunday that he plans to change the logo of Twitter to an “X” from the bird, marking what would be the latest big change since he bought the social media platform for $44 bil… [+1988 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Ambcrypto.com" },
+          "author": "Suzuki Shillsalot",
+          "title": "I asked ChatGPT about ETC rising to $50 this year, it portrayed confidence",
+          "description": "I asked ChatGPT about the performance of Ethereum Classic in the current year. The AI bot is confident in ETC's future.",
+          "url": "https://ambcrypto.com/chatgpt-ethereum-classic-price-prediction-18/",
+          "urlToImage": "https://statics.ambcrypto.com/wp-content/uploads/2023/07/ambcrypto_The_headline_highlights_ChatGPTs_confidence_in_Ethere_8f760efb-1f22-441f-91f4-b6d5526f361c-1000x600.png",
+          "publishedAt": "2023-07-23T13:55:47Z",
+          "content": "Disclaimer: The information presented does not constitute financial, investment, trading, or other types of advice and is solely the writers opinion.\r\nEthereum Classic [ETC] registered a significant … [+7301 chars]"
+        },
+        {
+          "source": { "id": "mashable", "name": "Mashable" },
+          "author": "Omair Pall",
+          "title": "‘Soon We Shall Bid Adieu To..’ Elon Musk Plans To Retire Twitter’s Iconic Bird And Bring A New ‘X’ Logo In Its Place",
+          "description": "‘Soon We Shall Bid Adieu To..’ Elon Musk Plans To Retire Twitter’s Iconic Bird And Bring A New ‘X’ Logo In Its Placemashable.com",
+          "url": "https://in.mashable.com/tech/56884/soon-we-shall-bid-adieu-to-elon-musk-plans-to-retire-twitters-iconic-bird-and-bring-a-new-x-logo-in",
+          "urlToImage": "https://sm.mashable.com/mashable_in/seo/5/56980/56980_pabt.jpg",
+          "publishedAt": "2023-07-23T13:53:02Z",
+          "content": "In a surprising turn of events, Elon Musk, the billionaire entrepreneur and CEO of Tesla and SpaceX, recently hinted at the end of the beloved Twitter brand. Musk's cryptic tweet, stating \"And soon w… [+2507 chars]"
+        },
+        {
+          "source": { "id": null, "name": "International Business Times" },
+          "author": "AFP News",
+          "title": "Musk Hints Twitter's Bird Branding Could Be Replaced",
+          "description": "Twitter owner Elon Musk hinted late Saturday night that he may ditch the social media network's blue cartoon bird branding -- and soon -- for an edgier logo based on an \"everything app\" he has long alluded to called only X.\n\"Soon we shall bid adieu to the twi…",
+          "url": "https://www.ibtimes.com/musk-hints-twitters-bird-branding-could-replaced-3706217",
+          "urlToImage": "https://d.ibtimes.com/en/full/4475228/twitter-whose-name-play-sound-birds-chattering-has-used-avian-branding-since-early-its.jpg",
+          "publishedAt": "2023-07-23T13:51:31Z",
+          "content": "Twitter, whose name is a play on the sound of birds chattering, has used the avian branding since early in its 2006 launchAFP\r\nTwitter owner Elon Musk hinted late Saturday night that he may ditch the… [+2447 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Crypto Daily" },
+          "author": "Amara Khatri",
+          "title": "Crypto Weekly Roundup: UK Rejects Treasury’s Proposal And More",
+          "description": "The UK’s HM Treasury has officially rejected the House of Commons Treasury Committee’s recent recommendation to regulate crypto trading not as financial assets but as gambling instruments. Let’s find out more. \nBitcoin \nElon Musk’s Tesla has continued to hodl…",
+          "url": "https://cryptodaily.co.uk/2023/07/crypto-weekly-roundup-uk-rejects-treasury-proposal-and-more",
+          "urlToImage": "https://cryptodailycdn.ams3.cdn.digitaloceanspaces.com/crypto-weekly-roundup-new.jpeg",
+          "publishedAt": "2023-07-23T13:50:00Z",
+          "content": "The UK’s HM Treasury has officially rejected the House of Commons Treasury Committee’s recent recommendation to regulate crypto trading not as financial assets but as gambling instruments. Let’s find… [+5788 chars]"
+        },
+        {
+          "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+          },
+          "author": "AP",
+          "title": "Musk says Twitter to change logo to ‘X’ from the bird, could be as early as Monday",
+          "description": "Musk's move to change Twitter's logo to an \"X\" also comes as Twitter faces new competition from Meta's new app, Threads, launched earlier this month. It has been seen as an alternative for those who have been souring on Twitter.",
+          "url": "https://economictimes.indiatimes.com/tech/technology/musk-says-twitter-to-change-logo-to-x-from-the-bird-could-be-as-early-as-monday/articleshow/102058955.cms",
+          "urlToImage": "https://img.etimg.com/thumb/msid-102058989,width-1070,height-580,imgsize-27042,overlay-ettech/photo.jpg",
+          "publishedAt": "2023-07-23T13:46:01Z",
+          "content": "Elon Musk said Sunday that he plans to change the logo of Twitter to an \"X\" from the bird, marking what would be the latest big change since he bought the social media platform for $44 billion last y… [+2040 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "fortune.com",
+          "title": "Elon Musk wants to ditch Twitter brand, bird logo: 'We shall bid adieu to the twitter brand and, gradually, all the birds'",
+          "description": "Elon Musk said Sunday that he plans to change the logo of Twitter to an “X” from the bird, marking what would be the latest big change since he bought the social media platform for $44 billion last year. In a series of posts on his Twitter account starting ju…",
+          "url": "https://biztoc.com/x/cf4a237ad691acad",
+          "urlToImage": "https://c.biztoc.com/p/cf4a237ad691acad/s.webp",
+          "publishedAt": "2023-07-23T13:44:03Z",
+          "content": "Elon Musk said Sunday that he plans to change the logo of Twitter to an X from the bird, marking what would be the latest big change since he bought the social media platform for $44 billion last yea… [+293 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Portfolio.hu" },
+          "author": "Portfolio.hu",
+          "title": "Ezek a cégek úgy nőnek, mint a gomba - Könnyen lehet, hogy az árfolyamukra is hasonló vár",
+          "description": "A növekedési részvényekre nem igazán lehetett panasz az elmúlt években (talán a tavalyi évet leszámítva), hiszen évek óta felülteljesítők, nemcsak az értékalapú befektetésekhez, hanem a piachoz képest is az USA-ban. Nem nehéz belehinni egy olyan sztoriba, aho…",
+          "url": "https://www.portfolio.hu/uzlet/20230723/ezek-a-cegek-ugy-nonek-mint-a-gomba-konnyen-lehet-hogy-az-arfolyamukra-is-hasonlo-var-629343",
+          "urlToImage": "https://pcdn.hu/articles/images-xl/b/i/k/bika-wall-street-index-tozsde-324827.jpg",
+          "publishedAt": "2023-07-23T13:40:00Z",
+          "content": "Az amerikai tzsdéken látott idei ralit egyértelmen a technológiai részvények hajták, amelyek általában kimerítik a növekedési részvények fogalmát. Ezek a papírok masszív felülteljesítésben vannak az … [+3421 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "mediaite.com",
+          "title": "Elon Musk Says 'Adieu' to Twitter Brand, 'All the Birds'",
+          "description": "Elon Musk teased a broad number of changes to Twitter over the weekend, not the least of which was his apparent plan to change the social media platform’s bird logo. The Twitter CEO hinted that cosmetic changes could be coming as early as Sunday morning, part…",
+          "url": "https://biztoc.com/x/963f1fa48c6fbde9",
+          "urlToImage": "https://c.biztoc.com/210/og.png",
+          "publishedAt": "2023-07-23T13:34:08Z",
+          "content": "Elon Musk teased a broad number of changes to Twitter over the weekend, not the least of which was his apparent plan to change the social media platforms bird logo.The Twitter CEO hinted that cosmeti… [+278 chars]"
+        },
+        {
+          "source": { "id": "the-verge", "name": "The Verge" },
+          "author": "Wes Davis",
+          "title": "Twitter’s rebrand to X may actually be happening soon",
+          "description": "Twitter’s logo may become, simply, an “X” on Monday, following repeated tweets about it by Twitter owner Elon Musk early Sunday morning alluding to the fact, as well as a call for a new logo design.",
+          "url": "https://www.theverge.com/2023/7/23/23804629/twitters-rebrand-to-x-may-actually-be-happening-soon",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/eu3jBTGH0siZA1cbTACFpDbYvqo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23906798/VRG_Illo_STK022_K_Radtke_Musk_Verified.jpg",
+          "publishedAt": "2023-07-23T13:33:12Z",
+          "content": "Twitters rebrand to X may actually be happening soon\r\nTwitters rebrand to X may actually be happening soon\r\n / After Elon tweeted about it all night, the bird site may become X Monday.\r\nByWes Davis, … [+2401 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Daily Mail" },
+          "author": "Sophie Manolas",
+          "title": "Elon Musk reveals plans to replace Twitter's iconic bird logo with an 'X' as soon as TOMORROW",
+          "description": "Elon Musk announced early Sunday morning that the Twitter logo would be changing from its famous bird to an X, possibly as soon as tomorrow.",
+          "url": "https://www.dailymail.co.uk/news/article-12328653/Elon-Musk-reveals-plans-replace-Twitters-iconic-bird-logo-X-soon-TOMORROW.html",
+          "urlToImage": "https://i.dailymail.co.uk/1s/2023/07/23/14/73521235-0-image-a-17_1690119155410.jpg",
+          "publishedAt": "2023-07-23T13:33:01Z",
+          "content": "Twitter boss Elon Musk has revealed he is scrapping the platform's iconic blue bird logo - and it could happen as soon as tomorrow.  \r\nThe Tesla and SpaceX leader, who acquired Twitter last October, … [+3617 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "theglobeandmail.com",
+          "title": "Elon Musk says Twitter to change logo to ‘X’ could come as early as Monday",
+          "description": "Elon Musk said Sunday that he plans to change the logo of Twitter to an “X” from the bird, marking what would be the latest big change since he bought the social media platform for $44 billion last year. In a series of posts on his Twitter account starting ju…",
+          "url": "https://biztoc.com/x/850f0a1e2dae1ed8",
+          "urlToImage": "https://c.biztoc.com/p/850f0a1e2dae1ed8/s.webp",
+          "publishedAt": "2023-07-23T13:32:06Z",
+          "content": "Elon Musk said Sunday that he plans to change the logo of Twitter to an X from the bird, marking what would be the latest big change since he bought the social media platform for $44 billion last yea… [+301 chars]"
+        },
+        {
+          "source": { "id": "fortune", "name": "Fortune" },
+          "author": "Anne D'Innocenzio, The Associated Press",
+          "title": "Elon Musk wants to ditch Twitter brand, bird logo: 'We shall bid adieu to the twitter brand and, gradually, all the birds'",
+          "description": "Elon Musk said Sunday that he plans to change the logo of Twitter to an “X” from the bird.",
+          "url": "https://fortune.com/2023/07/23/elon-musk-twitter-bird-logo-change-x-bid-adieu-brand/",
+          "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/07/GettyImages-1243763691-e1690118949700.jpg?resize=1200,600",
+          "publishedAt": "2023-07-23T13:30:32Z",
+          "content": "Elon Musk said Sunday that he plans to change the logo of Twitter to an X from the bird, marking what would be the latest big change since he bought the social media platform for $44 billion last yea… [+1927 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Screen Rant" },
+          "author": "Jordan Williams",
+          "title": "\"It Sent Me Into A Rage\" – It’s Always Sunny S16 Finale's Dennis Chaos Hilariously Mirrors True Glenn Howerton Story",
+          "description": "The frustrating car experiences of Dennis Reynolds in It's Always Sunny season 16, episode 8 actually mirror a real Glenn Howerton story.",
+          "url": "https://screenrant.com/its-always-sunny-season-16-finale-dennis-car-glenn-howerton-true-story/",
+          "urlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/07/untitled-2-13.jpg",
+          "publishedAt": "2023-07-23T13:30:20Z",
+          "content": "WARNING! This article contains spoilers for It's Always Sunny in Philadelphia season 16, episode 8!Dennis’ storyline in It’s Always Sunny in Philadelphia’s season 16 finale may seem oddly familiar, w… [+3571 chars]"
+        },
+        {
+          "source": { "id": null, "name": "El Financiero" },
+          "author": "Redacción",
+          "title": "Autos eléctricos en México: Este es el modelo más económico a la venta y sus características",
+          "description": "Conoce cuál es el carro eléctrico más barato en México, así como sus características, rendimiento y seguridad.",
+          "url": "https://www.elfinanciero.com.mx/autos/2023/07/23/cual-es-el-auto-electrico-mas-barato-en-mexico-2023/",
+          "urlToImage": "https://www.elfinanciero.com.mx/resizer/7-Zvhow5onm90tka9GH465t1CHM=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/S7GINDXQOZHLXEXAHSQKGSBX6A.jpg",
+          "publishedAt": "2023-07-23T13:30:01Z",
+          "content": "El mercado mexicano de autos creció en los últimos años derivado de la llegada de carros de orígen asiático, mismos que podrían cambiar el paradigma de las ventas y desatar una guerra de precios en l… [+3257 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Motor.ru" },
+          "author": "Александр Пономарёв",
+          "title": "Блогеры устроили сражение всех моделей электрокаров Tesla в S3XY-гонке",
+          "description": "Блогеры устроили сражение всех моделей электрокаров Tesla в S3XY-гонке. Канал Carwow специализируются на дрэг-рейсинге с участием самых разных автомобилей, но в последнее время авторы начали устраивать заезды, где задействованы машины исключительно одной моде…",
+          "url": "https://motor.ru/news/all-tesla-23-07-2023.htm",
+          "urlToImage": "https://motor.ru/imgs/2023/07/23/13/6016989/907e394e3df8f359a568c7134d982cf0e3a499c1.jpg",
+          "publishedAt": "2023-07-23T13:30:00Z",
+          "content": "Tesla S3XY-. Carwow - , , . . Tesla Model 3, Model S, Model Y Model X. Plaid."
+        },
+        {
+          "source": { "id": null, "name": "Motley Fool" },
+          "author": "newsfeedback@fool.com (Trevor Jennewine)",
+          "title": "The \"Magnificent Seven\" Stocks Are Soaring Toward a Bull Market: 2 Ideal Index Funds to Buy Now",
+          "description": "These index funds provide heavy exposure to Apple, Microsoft, Alphabet, Amazon, Nvidia, Tesla, and Meta Platforms.",
+          "url": "https://www.fool.com/investing/2023/07/23/magnificent-seven-stocks-2-index-funds-to-buy/",
+          "urlToImage": "https://g.foolcdn.com/editorial/images/740511/growth-3.jpg",
+          "publishedAt": "2023-07-23T13:30:00Z",
+          "content": "The S&amp;P 500(^GSPC 0.03%) soared 15.9% in the first half of 2023, and the index is now just 5% below its all-time high. Seven stocks, dubbed the \"Magnificent Seven\" by Wall Street, accounted for 7… [+5268 chars]"
+        },
+        {
+          "source": { "id": "google-news", "name": "Google News" },
+          "author": null,
+          "title": "How to See Your Tesla Safety Score - MUO - MakeUseOf",
+          "description": "How to See Your Tesla Safety Score  MUO - MakeUseOf",
+          "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3Lm1ha2V1c2VvZi5jb20vc2VlLXRlc2xhLXNhZmV0eS1zY29yZS_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+          "urlToImage": null,
+          "publishedAt": "2023-07-23T13:16:00Z",
+          "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Le Point" },
+          "author": "Martin Pereira",
+          "title": "Twitter : Elon Musk annonce d’importants changements à venir, dont un nouveau logo",
+          "description": "Dimanche matin, le patron du reseau social a annonce que Twitter allait changer de nom, pour devenir X Corp. L'identite visuelle doit egalement evoluer.",
+          "url": "https://www.lepoint.fr/high-tech-internet/twitter-elon-musk-annonce-d-importants-changements-a-venir-dont-un-nouveau-logo-23-07-2023-2529252_47.php",
+          "urlToImage": "https://static.lpnt.fr/images/2023/07/23/24863386lpw-24863691-mega-une-jpg_9666697.jpg",
+          "publishedAt": "2023-07-23T13:13:00Z",
+          "content": "Adieu Twitter ? Elon Musk veut révolutionner (encore) son réseau social, faisant fi des mécontentements des utilisateurs. Cette fois, le magnat américain s'en prend à l'identité même de l'oiseau bleu… [+1511 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Biztoc.com" },
+          "author": "wsj.com",
+          "title": "Why GE Shares Are Hotter Than Apple, Meta or Tesla",
+          "description": "Stock more than doubles from a year ago as the conglomerate continues its breakup into three companies.",
+          "url": "https://biztoc.com/x/412c7700c6a9b948",
+          "urlToImage": "https://c.biztoc.com/p/412c7700c6a9b948/s.webp",
+          "publishedAt": "2023-07-23T13:12:05Z",
+          "content": "Stock more than doubles from a year ago as the conglomerate continues its breakup into three companies.\r\nThis story appeared on wsj.com, ."
+        },
+        {
+          "source": { "id": null, "name": "WGN TV Chicago" },
+          "author": "The Associated Press",
+          "title": "Twitter dropping the bird logo, Musk says",
+          "description": "The change could come as early as Monday, according to Elon Musk.",
+          "url": "https://wgntv.com/news/nexstar-media-wire/twitter-dropping-the-bird-logo-musk-says/",
+          "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2023/07/6446dec4b1fdf5.54808498-e1683022916743-1.jpeg?w=1280",
+          "publishedAt": "2023-07-23T13:10:25Z",
+          "content": "NEW YORK (AP) Elon Musk said Sunday that he plans to change the logo of Twitter to an X from the bird, marking what would be the latest big change since he bought the social media platform for $44 bi… [+1971 chars]"
+        },
+        {
+          "source": { "id": null, "name": "WGN TV Chicago" },
+          "author": "The Associated Press",
+          "title": "Twitter dropping the bird logo, Musk says",
+          "description": "The change could come as early as Monday, according to Elon Musk.",
+          "url": "https://wgntv.com/news/twitter-dropping-the-bird-logo-musk-says/",
+          "urlToImage": "https://wgntv.com/wp-content/uploads/sites/5/2023/07/6446dec4b1fdf5.54808498-e1683022916743-1.jpeg?w=1280",
+          "publishedAt": "2023-07-23T13:10:25Z",
+          "content": "NEW YORK (AP) Elon Musk said Sunday that he plans to change the logo of Twitter to an X from the bird, marking what would be the latest big change since he bought the social media platform for $44 bi… [+1971 chars]"
+        },
+        {
+          "source": { "id": null, "name": "Www.abc.es" },
+          "author": "(abc)",
+          "title": "Elon Musk anuncia la próxima desaparición del pájaro azul de Twitter y busca reemplazo",
+          "description": "Ya había amenazado con ello, sin embargo, parece que ahora Elon Musk está más cerca de cumplir con su amenaza de acabar con el emblema de Twitter, el pájaro azul. El magnate posteó en su cuenta que «pronto» la compañía «despedirá la marca de Twitter y, gradua…",
+          "url": "https://www.abc.es/tecnologia/elon-musk-anuncia-proxima-desaparicion-pajaro-azul-20230723150521-nt.html",
+          "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2023/07/23/musk-2-abc-U05586814151TKp-1024x512@abc.jpg",
+          "publishedAt": "2023-07-23T13:08:07Z",
+          "content": "Ya había amenazado con ello, sin embargo, parece que ahora Elon Musk está más cerca de cumplir con su amenaza de acabar con el emblema de Twitter, el pájaro azul. \r\nEl magnate posteó en su cuenta que… [+1777 chars]"
+        },
+        {
+          "source": { "id": null, "name": "CleanTechnica" },
+          "author": "Jennifer Sensiba",
+          "title": "Even In Sacramento, EV Charging Is Treated Like An Optional Luxury",
+          "description": "When it comes to EV adoption, California is currently the undisputed champion. While the United States overall only has single-digit EV registrations per thousand people, California has over three times the adoption rate. A quick look at EV charging station m…",
+          "url": "https://cleantechnica.com/2023/07/23/even-in-sacramento-ev-charging-is-treated-like-an-optional-luxury/",
+          "urlToImage": "https://cleantechnica.com/files/2023/05/EA-New-Stations-San-Antonio-2000x1000-1-e1684991662342-800x400.png",
+          "publishedAt": "2023-07-23T13:00:48Z",
+          "content": "When it comes to EV adoption, California is currently the undisputed champion. While the United States overall only has single-digit EV registrations per thousand people, California has over three ti… [+7887 chars]"
+        }
+      ]
+
+}
