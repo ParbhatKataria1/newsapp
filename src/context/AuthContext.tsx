@@ -5,21 +5,24 @@ import {
     getAuth,
 } from 'firebase/auth';
 import firebase_app from '@/firebase/config';
+import { ContextType } from '@/todos/types';
 
 const auth = getAuth(firebase_app);
 
-export const AuthContext = React.createContext({});
+export const AuthContext = React.createContext<ContextType | null>(null);
 
 export const useAuthContext = () => React.useContext(AuthContext);
 
-export const AuthContextProvider = ({
-    children,
-}) => {
-    const [user, setUser] = React.useState(null);
-    const [loading, setLoading] = React.useState(true);
+export interface MyComponentProps {
+    children: React.ReactNode;
+  }
+
+export const AuthContextProvider = ({ children }:MyComponentProps) => {
+    const [user, setUser] = React.useState<String | null >(null);
+    const [loading, setLoading] = React.useState<Boolean>(true);
 
     useEffect(() => {
-        const unsubscribe = onAuthStateChanged(auth, (user) => {
+        const unsubscribe = onAuthStateChanged(auth, (user:String) => {
             if (user) {
                 setUser(user);
             } else {

@@ -6,12 +6,12 @@ import Link from "next/link";
 import { useAuthContext } from "@/context/AuthContext";
 
 function Page() {
-  const [email, setEmail] = React.useState("");
+  const [email, setEmail] = React.useState<String>("");
   const { setUser } = useAuthContext()
-  const [password, setPassword] = React.useState("");
+  const [password, setPassword] = React.useState<String>("");
   const router = useRouter();
 
-  const handleForm = async (event) => {
+  const handleForm = async (event:React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
 
     const { result, error } = await signIn(email, password);
@@ -21,8 +21,7 @@ function Page() {
     }
 
     // else successful
-    setUser(result);
-    console.log(result)
+    setUser(result?.user?.email);
     return router.push("/");
   };
   return (
