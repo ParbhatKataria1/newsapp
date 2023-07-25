@@ -18,7 +18,7 @@ export interface MyComponentProps {
   }
 
 export const AuthContextProvider = ({ children }:MyComponentProps) => {
-    const [user, setUser] = React.useState<String | null >(null);
+    const [user, setUser] = React.useState<String >("");
     const [loading, setLoading] = React.useState<Boolean>(true);
 
     useEffect(() => {
@@ -26,7 +26,7 @@ export const AuthContextProvider = ({ children }:MyComponentProps) => {
             if (user) {
                 setUser(user);
             } else {
-                setUser(null);
+                setUser("");
             }
             setLoading(false);
         });
