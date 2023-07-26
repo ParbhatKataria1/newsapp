@@ -4,8 +4,8 @@ import signUp from "@/firebase/auth/signup";
 import { useRouter } from 'next/navigation'
 
 function Page() {
-    const [email, setEmail] = React.useState<String>('')
-    const [password, setPassword] = React.useState<String>('')
+    const [email, setEmail] = React.useState<string>('')
+    const [password, setPassword] = React.useState<string>('')
     const router = useRouter()
 
     const handleForm = async (e:React.FormEvent<HTMLFormElement>) => {

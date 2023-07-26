@@ -21,7 +21,7 @@ export default function articles_data():Promise<NewsSchema[]>{
     return fetch(url).then(res=>res.json()).then(res=> res)
 }
 
-export function article(title:String):Promise<NewsSchema[]>{
+export function article(title:string):Promise<NewsSchema[]>{
     return fetch(`${url}?title_like=${title}`).then(res=>res.json()).then(res=> res)
 }
 

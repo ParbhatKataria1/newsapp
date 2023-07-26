@@ -4,6 +4,6 @@ export interface UserType {
   }
 
 export type ContextType = {
-    user: String;
-    setUser: (user:(String | undefined | null)) => void;
+    user: string;
+    setUser: (user:(string | undefined | null)) => void;
   };
