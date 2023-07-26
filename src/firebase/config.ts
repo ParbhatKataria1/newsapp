@@ -1,13 +1,13 @@
 import { initializeApp, getApps } from "firebase/app";
 
 const firebaseConfig = {
-    apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
-    authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
-    projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
-    storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
-    messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
-    appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
-    measurementId: process.env.NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID,
+    apiKey: 'AIzaSyA9DS40asOa_b-l5_4IlUTUWl7yvE9pphg',
+    authDomain: 'triveous-35530.firebaseapp.com',
+    projectId: 'triveous-35530',
+    storageBucket: 'triveous-35530.appspot.com',
+    messagingSenderId: '1049648193344',
+    appId: '1:1049648193344:web:9e279ef6f28b80f7c824a5',
+    measurementId: 'G-W1HX4E1RV8',
 };
 
 // Initialize Firebase

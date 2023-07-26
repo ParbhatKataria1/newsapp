@@ -6,9 +6,9 @@ import Link from "next/link";
 import { AuthContext } from "@/context/AuthContext";
 
 function Page() {
-  const [email, setEmail] = React.useState<String>("");
+  const [email, setEmail] = React.useState<string>("");
   const { setUser } = useContext(AuthContext)
-  const [password, setPassword] = React.useState<String>("");
+  const [password, setPassword] = React.useState<string>("");
   const router = useRouter();
 
   const handleForm = async (event:React.FormEvent<HTMLFormElement>) => {

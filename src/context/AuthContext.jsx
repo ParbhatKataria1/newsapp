@@ -9,20 +9,14 @@ import { ContextType } from '@/todos/types';
 
 const auth = getAuth(firebase_app);
 
-export const AuthContext = React.createContext<ContextType>({user:"", setUser:()=>null});
+export const AuthContext = React.createContext();
 
-// export const useAuthContext = () => React.useContext(AuthContext);
-
-export interface MyComponentProps {
-    children: React.ReactNode;
-  }
-
-export const AuthContextProvider = ({ children }:MyComponentProps) => {
-    const [user, setUser] = React.useState<String >("");
-    const [loading, setLoading] = React.useState<Boolean>(true);
+export const AuthContextProvider = ({ children }) => {
+    const [user, setUser] = React.useState("");
+    const [loading, setLoading] = React.useState(true);
 
     useEffect(() => {
-        const unsubscribe = onAuthStateChanged(auth, (user:String) => {
+        const unsubscribe = onAuthStateChanged(auth, (user) => {
             if (user) {
                 setUser(user);
             } else {
