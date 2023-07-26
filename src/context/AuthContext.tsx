@@ -9,7 +9,7 @@ import { ContextType } from '@/todos/types';
 
 const auth = getAuth(firebase_app);
 
-export const AuthContext = React.createContext<ContextType>({user:"", setUser:()=>{}});
+export const AuthContext = React.createContext<ContextType>({user:"", setUser:()=>null});
 
 export const useAuthContext = () => React.useContext(AuthContext);
 
