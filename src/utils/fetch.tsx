@@ -16,14 +16,13 @@ export const dummy_image = 'http://www.listercarterhomes.com/wp-content/uploads/
 
 export default function articles_data():Promise<NewsSchema[]>{
     const url = `https://newsapi.org/v2/everything?q=tesla&from=${new Date().getFullYear()}-${new Date().getMonth()}-${new Date().getDate()}&sortBy=publishedAt&apiKey=${'2580ab0ec6664dde939a1f101b3c14bb'}`;
-    return fetch(url).then(res=>res.json()).then(res=>{console.log(res[0], 'this is me' ); return res.articles} )
+    return fetch(url).then(res=>res.json()).then(res=>{console.log(res.articles[0], 'this is me' ); return res.articles} )
     // return fetch(url).then(res=>res.json()).then(res=> res)
 }
 
 export function article(title:String):Promise<NewsSchema[]>{
     const url = `https://newsapi.org/v2/everything?q=${title}&from=${new Date().getFullYear()}-${new Date().getMonth()}-${new Date().getDate()}&sortBy=publishedAt&apiKey=${'2580ab0ec6664dde939a1f101b3c14bb'}`;
-console.log(url, 'this i si sis ')
-    return fetch(url).then(res=>res.json()).then(res=> {console.log(res[0], 'this is me' ); return res.articles})
+return fetch(url).then(res=>res.json()).then(res=>{console.log(res.articles[0], 'this is me' ); return res.articles} )
 }
 
 
