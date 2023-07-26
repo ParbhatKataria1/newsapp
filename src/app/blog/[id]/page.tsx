@@ -1,4 +1,5 @@
 'use client'
+import Spinner from '@/app/components/spinner';
 import { AuthContext } from '@/context/AuthContext';
 import { NewsSchema, article, dummy_image } from '@/utils/fetch';
 import Image from 'next/image';
@@ -11,11 +12,14 @@ const ShowDetails:React.FC<{params:{id:String}}> =  ({params}) => {
 
     const [data, setdata] = useState<NewsSchema>();
     const { user } = useContext(AuthContext)
+    const [loading, setloading] = useState<boolean>(false);
       const router = useRouter();
       console.log(user)
       if (!user) router.push("/auth/login");
     const fetchdata = async()=>{
+        setloading(true);
         const temp = await article(params?.id)  ;
+        setloading(false);
         console.log('temp', temp)
         setdata(temp[0]);
     }
@@ -29,7 +33,7 @@ const ShowDetails:React.FC<{params:{id:String}}> =  ({params}) => {
   return (
     <div>
         <h1 className='my-10 text-4xl text-center'>Article Content</h1>
-
+        <span className='text-center'>{loading?<Spinner/>:""}</span>
     
     <div className='w-11/12 mx-auto mt-2 p-10 shadow-md items-center'>
         <div className="flex  justify-between">

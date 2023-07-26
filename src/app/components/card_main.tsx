@@ -18,6 +18,7 @@ const CardMain = ({children}:MyComponentProps) => {
       if (!user) router.push("/auth/login");
   return (
     <>
+
     {children}
     </>
   )
