@@ -9,6 +9,7 @@ import Spinner from "@/app/components/spinner";
 function Page() {
   const [email, setEmail] = React.useState<string>("");
   const [loading, setloading] = useState<boolean>(false);
+  const [error, seterror] = useState<string>('');
   const { setUser } = useContext(AuthContext)
   const [password, setPassword] = React.useState<string>("");
   const router = useRouter();
@@ -20,7 +21,8 @@ function Page() {
 
     setloading(false);
     if (error) {
-      return console.log(error);
+      seterror(error.message);
+      return console.log(error.message);
     }
 
     // else successful
@@ -56,6 +58,8 @@ function Page() {
             placeholder="password"
           />
         </label>
+        <br />
+        {error && <span className="text-red-600 text-sm">{error}</span>}
         <br />
         <div className="flex justify-between item-center">
           <button

@@ -1,12 +1,13 @@
 'use client'
-import React from "react";
+import React, { useState } from "react";
 import signUp from "@/firebase/auth/signup";
 import { useRouter } from 'next/navigation'
 import Spinner from "@/app/components/spinner";
 
 function Page() {
     const [email, setEmail] = React.useState<string>('')
-    const [password, setPassword] = React.useState<string>('')
+    const [password, setPassword] = React.useState<string>('');
+    const [error, seterror] = useState<string>('');
     const [loading, setloading] = React.useState<boolean>(false);
     const router = useRouter()
 
@@ -16,6 +17,7 @@ setloading(true);
         const { result, error } = await signUp(email, password);
 setloading(false);
         if (error) {
+            seterror(error.message)
             return console.log(error)
         }
 
@@ -34,6 +36,8 @@ setloading(false);
                     <p className="mt-5">Password</p>
                     <input className=" w-full mt-1 border-2 px-1 rounded" onChange={(e) => setPassword(e.target.value)} required type="password" name="password" id="password" placeholder="password" />
                 </label>
+                <br />
+                {error && <span className="text-red-600 text-sm">{error}</span>}
                 <br />
                 <button className="mt-5 border-2 p-2 text-sm rounded bg-slate-700 text-white" type="submit">Sign up</button>
             </form>
