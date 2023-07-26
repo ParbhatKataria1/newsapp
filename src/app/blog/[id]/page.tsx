@@ -12,6 +12,7 @@ const ShowDetails:React.FC<{params:{id:String}}> =  ({params}) => {
     const [data, setdata] = useState<NewsSchema>();
     const fetchdata = async()=>{
         const temp = await article(params?.id)  ;
+        console.log('temp', temp)
         setdata(temp[0]);
     }
     useEffect(()=>{
