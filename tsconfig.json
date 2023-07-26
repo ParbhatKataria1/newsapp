@@ -23,6 +23,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/blog/[id]", "src/context/AuthContext.jsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/blog/[id]", "src/context/AuthContext.jsx", "src/firebase/auth/signin.ts", "src/firebase/auth/signup.ts"],
   "exclude": ["node_modules"]
 }
