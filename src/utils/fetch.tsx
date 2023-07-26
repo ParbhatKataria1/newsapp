@@ -11,10 +11,12 @@ export interface NewsSchema {
     url:string,
 }
 export const dummy_image = 'http://www.listercarterhomes.com/wp-content/uploads/2013/11/dummy-image-square.jpg'
-const apikey = 'c6b9515bdec81abeb421e41a36647efb'
+const apikey = 'c6b9515bdec81abeb421e41a36647efb'; // new
+// const apikey = 'fb4f2468fc839cf45fedd2ec66a5e7c9'
 export default function articles_data():Promise<NewsSchema[]>{
-    const url = `https://gnews.io/api/v4/search?q=tesla&apikey=${apikey}`;
+    const url = `https://gnews.io/api/v4/search?q=tesla&lang=en&apikey=${apikey}`;
     return fetch(url).then(res=>res.json()).then(res=>{console.log(res.articles[0], 'this is me' ); return res.articles} )
+    // return fetch(`http://localhost:4500/articles`).then(res=>res.json()).then(res=>{return res} )
 }
 
 export function article(title:String):Promise<NewsSchema[]>{
