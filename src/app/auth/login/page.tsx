@@ -21,8 +21,9 @@ function Page() {
 
     setloading(false);
     if (error) {
-      seterror(error.message);
-      return console.log(error.message);
+      const value = JSON.parse(JSON.stringify(error)).code
+            seterror(value)
+            return value
     }
 
     // else successful

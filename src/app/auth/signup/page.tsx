@@ -17,8 +17,9 @@ setloading(true);
         const { result, error } = await signUp(email, password);
 setloading(false);
         if (error) {
-            seterror(error.message)
-            return console.log(error)
+            const value = JSON.parse(JSON.stringify(error)).code
+            seterror(value)
+            return value
         }
 
         // else successful
