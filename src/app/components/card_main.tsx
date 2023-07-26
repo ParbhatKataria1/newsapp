@@ -14,6 +14,7 @@ export interface MyComponentProps {
 const CardMain = ({children}:MyComponentProps) => {
     const { user } = useContext(AuthContext)
       const router = useRouter();
+      console.log(user)
       if (user == null) router.push("/auth/login");
   return (
     <>
