@@ -30,8 +30,8 @@ export const AuthContextProvider = ({ children }) => {
 
     return (
         <AuthContext.Provider value={{ user, setUser }}>
-            {/* {loading ? <div>Loading...</div> : children} */}
-            {children}
+            {loading ? <div>Loading...</div> : children}
+            {/* {children} */}
         </AuthContext.Provider>
     );
 };

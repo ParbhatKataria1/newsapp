@@ -28,11 +28,10 @@ const ShowDetails:React.FC<{params:{id:String}}> =  ({params}) => {
     
     <div className='w-11/12 mx-auto mt-2 p-10 shadow-md items-center'>
         <div className="flex  justify-between">
-            <Image width={300} height={400} src={data?.urlToImage || dummy_image} alt='Not Found' />
+            <Image width={300} height={400} src={data?.image || dummy_image} alt='Not Found' />
             <div className='w-3/5'>
                 <div className='flex justify-between'>
                 <p className='text-right text-sm py-4 font-weight: 800'>PublishedAt - {data?.publishedAt}</p>
-                <p className='text-right text-sm py-4 font-weight: 800'>Author - {data?.author}</p>
 
                 </div>
                 <h2 className='text-2xl'>{data?.title}</h2>
