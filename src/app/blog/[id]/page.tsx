@@ -1,14 +1,19 @@
 'use client'
+import { AuthContext } from '@/context/AuthContext';
 import { NewsSchema, article, dummy_image } from '@/utils/fetch';
 import Image from 'next/image';
 import { useRouter } from 'next/navigation';
 import React from 'react'
-import { useEffect, useState } from "react";
+import { useEffect, useState , useContext} from "react";
 
 
 const ShowDetails:React.FC<{params:{id:String}}> =  ({params}) => {
 
     const [data, setdata] = useState<NewsSchema>();
+    const { user } = useContext(AuthContext)
+      const router = useRouter();
+      console.log(user)
+      if (!user) router.push("/auth/login");
     const fetchdata = async()=>{
         const temp = await article(params?.id)  ;
         console.log('temp', temp)

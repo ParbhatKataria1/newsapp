@@ -15,7 +15,7 @@ const CardMain = ({children}:MyComponentProps) => {
     const { user } = useContext(AuthContext)
       const router = useRouter();
       console.log(user)
-      if (user == null) router.push("/auth/login");
+      if (!user) router.push("/auth/login");
   return (
     <>
     {children}
