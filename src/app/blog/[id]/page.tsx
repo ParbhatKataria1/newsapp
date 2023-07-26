@@ -8,7 +8,6 @@ import { useEffect, useState } from "react";
 
 const ShowDetails:React.FC<{params:{id:String}}> =  ({params}) => {
 
-
     const [data, setdata] = useState<NewsSchema>();
     const fetchdata = async()=>{
         const temp = await article(params?.id)  ;
