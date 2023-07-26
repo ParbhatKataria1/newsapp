@@ -1,34 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# News App
 
-## Getting Started
+## Application View - [Deployed Link](https://newsapp.vercel.app/)
 
-First, run the development server:
+### Home Page
+![Screenshot 2023-07-26 150957](https://github.com/ParbhatKataria1/newsapp/assets/113490540/d6a0b8e8-7757-4b6d-b525-ee80007ca95a)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+### Single Article Page
+![Screenshot 2023-07-26 151040](https://github.com/ParbhatKataria1/newsapp/assets/113490540/b64c401b-5fea-415b-b0e5-632435f110e7)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Login Page
+![Screenshot 2023-07-26 151019](https://github.com/ParbhatKataria1/newsapp/assets/113490540/9bf9d2d3-970f-4209-bcfe-366ca48e6d84)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
