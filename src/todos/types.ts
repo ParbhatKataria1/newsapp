@@ -5,5 +5,5 @@ export interface UserType {
 
 export type ContextType = {
     user: String;
-    setUser: (user:String) => void;
+    setUser: (user:(String | undefined | null)) => void;
   };
