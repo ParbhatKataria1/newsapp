@@ -1,13 +1,13 @@
 "use client";
-import React from "react";
+import React, { useContext } from "react";
 import signIn from "@/firebase/auth/signin";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
-import { useAuthContext } from "@/context/AuthContext";
+import { AuthContext } from "@/context/AuthContext";
 
 function Page() {
   const [email, setEmail] = React.useState<String>("");
-  const { setUser } = useAuthContext()
+  const { setUser } = useContext(AuthContext)
   const [password, setPassword] = React.useState<String>("");
   const router = useRouter();
 
@@ -58,7 +58,7 @@ function Page() {
             className="mt-5 border-2 p-2 text-sm rounded bg-slate-700 text-white"
             type="submit"
           >
-            Sign up
+            Login
           </button>
           
           <Link className="mt-5 underline p-2 text-sm text-blue text-left" href={"/auth/signup"}>

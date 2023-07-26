@@ -11,7 +11,7 @@ const auth = getAuth(firebase_app);
 
 export const AuthContext = React.createContext<ContextType>({user:"", setUser:()=>null});
 
-export const useAuthContext = () => React.useContext(AuthContext);
+// export const useAuthContext = () => React.useContext(AuthContext);
 
 export interface MyComponentProps {
     children: React.ReactNode;

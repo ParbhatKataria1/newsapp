@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import Image from 'next/image'
-import { useAuthContext } from "@/context/AuthContext";
 import { useRouter } from "next/navigation";
 import Card from './components/card'
 import {NewsSchema} from '../utils/fetch'

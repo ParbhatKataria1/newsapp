@@ -9,14 +9,14 @@ import { useEffect, useState } from "react";
 const ShowDetails:React.FC<{params:{id:String}}> =  ({params}) => {
 
 
-const [data, setdata] = useState<NewsSchema>();
-const fetchdata = async()=>{
-    const temp = await article(params?.id)  ;
-    setdata(temp[0]);
-}
-useEffect(()=>{
-    fetchdata()
-}, [])
+    const [data, setdata] = useState<NewsSchema>();
+    const fetchdata = async()=>{
+        const temp = await article(params?.id)  ;
+        setdata(temp[0]);
+    }
+    useEffect(()=>{
+        fetchdata()
+    }, [])
 //     const router = useRouter();
 //   const id = router.query;
 //   console.log(id)
