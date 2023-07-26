@@ -15,14 +15,17 @@ export const dummy_image = 'http://www.listercarterhomes.com/wp-content/uploads/
 
 export default function articles_data():Promise<NewsSchema[]>{
     const url = `https://gnews.io/api/v4/search?q=tesla&apikey=fb4f2468fc839cf45fedd2ec66a5e7c9`;
+    // const url = `http://localhost:4500/articles`
     return fetch(url).then(res=>res.json()).then(res=>{console.log(res.articles[0], 'this is me' ); return res.articles} )
     // return fetch(url).then(res=>res.json()).then(res=> res)
 }
 
 export function article(title:String):Promise<NewsSchema[]>{
-    console.log(`https://gnews.io/api/v4/search?q=tesla&in=${title}&lang=en&apikey=fb4f2468fc839cf45fedd2ec66a5e7c9`)
+    // console.log(`https://gnews.io/api/v4/search?q=tesla&in=${title}&lang=en&apikey=fb4f2468fc839cf45fedd2ec66a5e7c9`)
     const url = `https://gnews.io/api/v4/search?q=tesla&in=${title}&lang=en&apikey=fb4f2468fc839cf45fedd2ec66a5e7c9`;
+    // const url = `http://localhost:4500/articles?title_like=${title}`
 return fetch(url).then(res=>res.json()).then(res=>{console.log(res.articles[0], 'this is me' ); return res.articles} )
+// return fetch(url).then(res=>res.json()).then(res=>{ return res} )
 }
 
 

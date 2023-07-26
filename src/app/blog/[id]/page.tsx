@@ -36,9 +36,9 @@ const ShowDetails:React.FC<{params:{id:String}}> =  ({params}) => {
         <span className='text-center'>{loading?<Spinner/>:""}</span>
     
     <div className='w-11/12 mx-auto mt-2 p-10 shadow-md items-center'>
-        <div className="flex  justify-between">
+        <div className="flex flex-col md:flex-row">
             <Image width={300} height={400} src={data?.image || dummy_image} alt='Not Found' />
-            <div className='w-3/5'>
+            <div className='md:ml-10'>
                 <div className='flex justify-between'>
                 <p className='text-right text-sm py-4 font-weight: 800'>PublishedAt - {data?.publishedAt}</p>
 
